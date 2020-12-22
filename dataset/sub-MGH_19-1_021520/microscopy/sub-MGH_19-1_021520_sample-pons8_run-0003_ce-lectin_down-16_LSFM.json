@@ -1,0 +1,12 @@
+{
+  "PixelSize": 57.44,
+  "FovWidth": 143485.12,
+  "FovHeight": 52615.04,
+  "TimeStamp": "2020-12-05T21:49:08",
+  "Species": "human",
+  "BodyPart": "BRAIN",
+  "BodyPartDetails": "entire pons",
+  "BodyPartDetailsOntology": "SNOMED",
+  "Environment": "exvivo",
+  "SampleStaining": "Lectin"
+}
