@@ -69,7 +69,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:23.471077Z",
+"2021-05-18T13:15:22.514810Z",
 "path":
 "dataset/participants.tsv",
 "size":
@@ -145,7 +145,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:23.486033Z",
+"2021-05-18T13:15:21.810015Z",
 "path":
 "dataset/dataset_description.json",
 "size":
@@ -221,7 +221,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:23.527010Z",
+"2021-05-18T13:15:22.523211Z",
 "path":
 "dataset/participants.json",
 "size":
@@ -297,7 +297,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:23.553939Z",
+"2021-05-18T13:15:21.823991Z",
 "path":
 "dataset/participants.tsv~",
 "size":
@@ -373,7 +373,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:23.589353Z",
+"2021-05-18T13:15:22.531725Z",
 "path":
 "dataset/samples.json",
 "size":
@@ -449,7 +449,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:25.209731Z",
+"2021-05-18T13:15:21.834784Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0000_ce-lectin_down-16_LSFM.json",
 "size":
@@ -525,7 +525,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:25.227161Z",
+"2021-05-18T13:15:22.548618Z",
 "path":
 "dataset/samples.tsv",
 "size":
@@ -601,7 +601,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:25.572632Z",
+"2021-05-18T13:15:21.845519Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0000_ce-yo_down-16_LSFM.json",
 "size":
@@ -677,7 +677,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:25.583685Z",
+"2021-05-18T13:15:22.558478Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0000_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -753,7 +753,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:25.632446Z",
+"2021-05-18T13:15:21.855058Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0000_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -829,7 +829,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:26.183872Z",
+"2021-05-18T13:15:22.570813Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0001_ce-lectin_down-16_LSFM.json",
 "size":
@@ -905,7 +905,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:27.104164Z",
+"2021-05-18T13:15:21.865616Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0001_ce-yo_down-16_LSFM.json",
 "size":
@@ -981,7 +981,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:27.293386Z",
+"2021-05-18T13:15:22.581198Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0002_ce-lectin_down-16_LSFM.json",
 "size":
@@ -1057,7 +1057,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:27.560077Z",
+"2021-05-18T13:15:22.596607Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0001_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -1133,7 +1133,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:28.154348Z",
+"2021-05-18T13:15:21.873510Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0001_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -1209,7 +1209,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:28.321465Z",
+"2021-05-18T13:15:21.883973Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0002_ce-yo_down-16_LSFM.json",
 "size":
@@ -1285,7 +1285,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:28.705590Z",
+"2021-05-18T13:15:21.899284Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0002_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -1361,7 +1361,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:28.897708Z",
+"2021-05-18T13:15:22.609438Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0003_ce-lectin_down-16_LSFM.json",
 "size":
@@ -1437,7 +1437,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:29.427402Z",
+"2021-05-18T13:15:21.922397Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0002_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -1513,7 +1513,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:29.914131Z",
+"2021-05-18T13:15:22.621548Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0003_ce-yo_down-16_LSFM.json",
 "size":
@@ -1589,7 +1589,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:30.565472Z",
+"2021-05-18T13:15:22.631585Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0003_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -1665,7 +1665,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:30.676311Z",
+"2021-05-18T13:15:21.950554Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0004_ce-lectin_down-16_LSFM.json",
 "size":
@@ -1741,7 +1741,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:31.154770Z",
+"2021-05-18T13:15:22.639923Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0003_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -1817,7 +1817,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:31.196584Z",
+"2021-05-18T13:15:21.971979Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0004_ce-yo_down-16_LSFM.json",
 "size":
@@ -1893,7 +1893,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:31.720885Z",
+"2021-05-18T13:15:22.648505Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0004_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -1969,7 +1969,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:32.028407Z",
+"2021-05-18T13:15:21.991449Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0005_ce-lectin_down-16_LSFM.json",
 "size":
@@ -2045,7 +2045,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:32.614336Z",
+"2021-05-18T13:15:22.010888Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0004_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -2121,7 +2121,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:32.631125Z",
+"2021-05-18T13:15:22.658353Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0005_ce-yo_down-16_LSFM.json",
 "size":
@@ -2197,7 +2197,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:33.292340Z",
+"2021-05-18T13:15:22.029160Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0006_ce-lectin_down-16_LSFM.json",
 "size":
@@ -2273,7 +2273,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:33.629569Z",
+"2021-05-18T13:15:22.047390Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0005_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -2349,7 +2349,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:33.815364Z",
+"2021-05-18T13:15:22.679307Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0005_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -2425,7 +2425,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:33.929166Z",
+"2021-05-18T13:15:22.691632Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0006_ce-yo_down-16_LSFM.json",
 "size":
@@ -2501,7 +2501,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:34.759112Z",
+"2021-05-18T13:15:22.068684Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0006_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -2577,7 +2577,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:34.892244Z",
+"2021-05-18T13:15:22.716815Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0007_ce-lectin_down-16_LSFM.json",
 "size":
@@ -2653,7 +2653,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:35.314719Z",
+"2021-05-18T13:15:22.730753Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0007_ce-yo_down-16_LSFM.json",
 "size":
@@ -2729,7 +2729,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:35.509121Z",
+"2021-05-18T13:14:16.165232Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0006_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -2805,7 +2805,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:36.317974Z",
+"2021-05-18T13:15:22.083301Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0007_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -2881,7 +2881,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:36.391510Z",
+"2021-05-18T13:15:22.101763Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0008_ce-lectin_down-16_LSFM.json",
 "size":
@@ -2957,7 +2957,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:36.869505Z",
+"2021-05-18T13:15:22.762885Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0008_ce-yo_down-16_LSFM.json",
 "size":
@@ -3033,7 +3033,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:37.238052Z",
+"2021-05-18T13:15:22.114508Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0007_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -3109,7 +3109,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:37.360854Z",
+"2021-05-18T13:15:22.126435Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0008_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -3185,7 +3185,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:37.859589Z",
+"2021-05-18T13:15:22.149994Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0009_ce-lectin_down-16_LSFM.json",
 "size":
@@ -3261,7 +3261,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:38.130204Z",
+"2021-05-18T13:15:22.780398Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0008_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -3337,7 +3337,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:38.816784Z",
+"2021-05-18T13:15:22.162050Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0009_ce-yo_down-16_LSFM.json",
 "size":
@@ -3413,7 +3413,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:39.260660Z",
+"2021-05-18T13:15:22.797591Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0009_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -3489,7 +3489,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:39.338979Z",
+"2021-05-18T13:15:22.174181Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0010_ce-lectin_down-16_LSFM.json",
 "size":
@@ -3565,7 +3565,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:39.747786Z",
+"2021-05-18T13:15:22.806148Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0009_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -3641,7 +3641,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:40.162473Z",
+"2021-05-18T13:15:22.185432Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0010_ce-yo_down-16_LSFM.json",
 "size":
@@ -3717,7 +3717,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:40.683583Z",
+"2021-05-18T13:15:22.814350Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0010_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -3793,7 +3793,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:40.996389Z",
+"2021-05-18T13:15:22.823108Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0011_ce-lectin_down-16_LSFM.json",
 "size":
@@ -3869,7 +3869,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:41.563262Z",
+"2021-05-18T13:15:22.225835Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0011_ce-yo_down-16_LSFM.json",
 "size":
@@ -3945,7 +3945,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:41.602004Z",
+"2021-05-18T13:15:22.831399Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0010_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -4021,7 +4021,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:42.108085Z",
+"2021-05-18T13:15:22.239750Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0011_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -4097,7 +4097,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:42.142768Z",
+"2021-05-18T13:15:22.842502Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0012_ce-lectin_down-16_LSFM.json",
 "size":
@@ -4173,7 +4173,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:42.954653Z",
+"2021-05-18T13:14:16.840281Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0012_ce-yo_down-16_LSFM.json",
 "size":
@@ -4249,7 +4249,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:43.045384Z",
+"2021-05-18T13:15:22.858304Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0011_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -4325,7 +4325,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:43.627480Z",
+"2021-05-18T13:14:17.218536Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0013_ce-lectin_down-16_LSFM.json",
 "size":
@@ -4401,7 +4401,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:43.909547Z",
+"2021-05-18T13:15:22.872407Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0012_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -4477,7 +4477,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:44.521035Z",
+"2021-05-18T13:14:17.549871Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0013_ce-yo_down-16_LSFM.json",
 "size":
@@ -4553,7 +4553,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:44.978796Z",
+"2021-05-18T13:14:22.073448Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0013_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -4629,7 +4629,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:45.027126Z",
+"2021-05-18T13:15:22.883485Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0012_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -4705,7 +4705,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:45.059150Z",
+"2021-05-18T13:14:23.139392Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0014_ce-lectin_down-16_LSFM.json",
 "size":
@@ -4781,7 +4781,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:45.872589Z",
+"2021-05-18T13:15:22.895828Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0013_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -4857,7 +4857,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:46.268225Z",
+"2021-05-18T13:14:23.842248Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0014_ce-yo_down-16_LSFM.json",
 "size":
@@ -4933,7 +4933,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:46.422263Z",
+"2021-05-18T13:15:22.906422Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0015_ce-lectin_down-16_LSFM.json",
 "size":
@@ -5009,7 +5009,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:46.769297Z",
+"2021-05-18T13:14:24.506523Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0014_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -5085,7 +5085,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:47.374037Z",
+"2021-05-18T13:15:22.919100Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0014_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -5161,7 +5161,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:47.568833Z",
+"2021-05-18T13:15:22.928546Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0015_ce-yo_down-16_LSFM.json",
 "size":
@@ -5237,7 +5237,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:48.144592Z",
+"2021-05-18T13:14:26.780355Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0016_ce-lectin_down-16_LSFM.json",
 "size":
@@ -5313,7 +5313,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:48.196520Z",
+"2021-05-18T13:15:22.940769Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0015_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -5389,7 +5389,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:48.807507Z",
+"2021-05-18T13:14:27.868804Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0015_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -5465,7 +5465,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:48.917188Z",
+"2021-05-18T13:15:22.950188Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0016_ce-yo_down-16_LSFM.json",
 "size":
@@ -5541,7 +5541,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:49.729779Z",
+"2021-05-18T13:15:22.966659Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0016_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -5617,7 +5617,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:49.832979Z",
+"2021-05-18T13:14:29.050060Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0017_ce-lectin_down-16_LSFM.json",
 "size":
@@ -5693,7 +5693,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:50.385109Z",
+"2021-05-18T13:15:22.976062Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0017_ce-yo_down-16_LSFM.json",
 "size":
@@ -5769,7 +5769,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:50.764119Z",
+"2021-05-18T13:14:29.373383Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0016_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -5845,7 +5845,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:51.136931Z",
+"2021-05-18T13:14:30.336876Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0018_ce-lectin_down-16_LSFM.json",
 "size":
@@ -5921,7 +5921,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:51.257866Z",
+"2021-05-18T13:14:30.970038Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0017_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -5997,7 +5997,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:52.148608Z",
+"2021-05-18T13:14:48.169517Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0018_ce-yo_down-16_LSFM.json",
 "size":
@@ -6073,7 +6073,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:52.441702Z",
+"2021-05-18T13:14:48.791389Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0017_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -6149,7 +6149,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:52.861598Z",
+"2021-05-18T13:15:23.055368Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0018_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -6225,7 +6225,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:53.137328Z",
+"2021-05-18T13:15:23.065364Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0019_ce-lectin_down-16_LSFM.json",
 "size":
@@ -6301,7 +6301,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:53.396404Z",
+"2021-05-18T13:14:52.067143Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0019_ce-yo_down-16_LSFM.json",
 "size":
@@ -6377,7 +6377,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:53.463171Z",
+"2021-05-18T13:15:23.074661Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0018_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -6453,7 +6453,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:54.301879Z",
+"2021-05-18T13:14:52.776436Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0020_ce-lectin_down-16_LSFM.json",
 "size":
@@ -6529,7 +6529,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:54.482431Z",
+"2021-05-18T13:15:23.084056Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0019_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -6605,7 +6605,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:55.001918Z",
+"2021-05-18T13:15:23.093285Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0020_ce-yo_down-16_LSFM.json",
 "size":
@@ -6681,7 +6681,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:55.144413Z",
+"2021-05-18T13:14:53.604982Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0019_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -6757,7 +6757,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:55.716134Z",
+"2021-05-18T13:14:54.326012Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0021_ce-lectin_down-16_LSFM.json",
 "size":
@@ -6833,7 +6833,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:55.759379Z",
+"2021-05-18T13:15:23.101862Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0020_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -6909,7 +6909,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:56.457362Z",
+"2021-05-18T13:14:55.764237Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0021_ce-yo_down-16_LSFM.json",
 "size":
@@ -6985,7 +6985,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:56.783421Z",
+"2021-05-18T13:15:23.109553Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0020_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -7061,7 +7061,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:57.129136Z",
+"2021-05-18T13:15:23.118465Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0022_ce-lectin_down-16_LSFM.json",
 "size":
@@ -7137,7 +7137,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:57.400066Z",
+"2021-05-18T13:15:23.127361Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0021_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -7213,7 +7213,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:58.031322Z",
+"2021-05-18T13:15:23.135736Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0022_ce-yo_down-16_LSFM.json",
 "size":
@@ -7289,7 +7289,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:58.211216Z",
+"2021-05-18T13:14:56.141530Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0021_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -7365,7 +7365,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:58.838640Z",
+"2021-05-18T13:15:23.143013Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0023_ce-lectin_down-16_LSFM.json",
 "size":
@@ -7441,7 +7441,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:59.007504Z",
+"2021-05-18T13:15:23.150560Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0022_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -7517,7 +7517,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:59.354136Z",
+"2021-05-18T13:15:23.157712Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0022_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -7593,7 +7593,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:11:59.521671Z",
+"2021-05-18T13:14:57.024641Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0023_ce-yo_down-16_LSFM.json",
 "size":
@@ -7669,7 +7669,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:00.256281Z",
+"2021-05-18T13:14:57.520542Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0024_ce-lectin_down-16_LSFM.json",
 "size":
@@ -7745,7 +7745,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:00.295550Z",
+"2021-05-18T13:15:01.339768Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0023_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -7821,7 +7821,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:00.887749Z",
+"2021-05-18T13:15:10.971769Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0024_ce-yo_down-16_LSFM.json",
 "size":
@@ -7897,7 +7897,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:01.374361Z",
+"2021-05-18T13:15:18.285955Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0023_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -7973,7 +7973,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:01.600527Z",
+"2021-05-18T13:15:18.979788Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0025_ce-lectin_down-16_LSFM.json",
 "size":
@@ -8049,7 +8049,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:01.668652Z",
+"2021-05-18T13:15:20.204287Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0024_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -8125,7 +8125,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:02.608145Z",
+"2021-05-18T13:15:20.590380Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0025_ce-yo_down-16_LSFM.json",
 "size":
@@ -8201,7 +8201,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:02.693654Z",
+"2021-05-18T13:15:21.601546Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0024_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -8277,7 +8277,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:03.129377Z",
+"2021-05-18T13:15:23.166473Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0025_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -8353,7 +8353,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:03.163319Z",
+"2021-05-18T13:15:23.673701Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0026_ce-lectin_down-16_LSFM.json",
 "size":
@@ -8429,7 +8429,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:03.851860Z",
+"2021-05-18T13:15:23.174340Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0025_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -8505,7 +8505,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:03.960632Z",
+"2021-05-18T13:15:23.685177Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0026_ce-yo_down-16_LSFM.json",
 "size":
@@ -8581,7 +8581,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:04.475014Z",
+"2021-05-18T13:15:23.185814Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0027_ce-lectin_down-16_LSFM.json",
 "size":
@@ -8657,7 +8657,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:05.040913Z",
+"2021-05-18T13:15:23.704851Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0026_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -8733,7 +8733,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:05.250238Z",
+"2021-05-18T13:15:23.714809Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0027_ce-yo_down-16_LSFM.json",
 "size":
@@ -8809,7 +8809,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:05.529763Z",
+"2021-05-18T13:15:23.196107Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0026_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -8885,7 +8885,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:05.969873Z",
+"2021-05-18T13:15:23.725427Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0027_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -8961,7 +8961,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:06.280214Z",
+"2021-05-18T13:15:23.208078Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0028_ce-lectin_down-16_LSFM.json",
 "size":
@@ -9037,7 +9037,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:06.926594Z",
+"2021-05-18T13:15:23.735394Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0027_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -9113,7 +9113,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:06.992627Z",
+"2021-05-18T13:15:23.748053Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0028_ce-yo_down-16_LSFM.json",
 "size":
@@ -9189,7 +9189,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:07.547942Z",
+"2021-05-18T13:15:23.768297Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0028_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -9265,7 +9265,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:07.678452Z",
+"2021-05-18T13:15:23.216523Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0029_ce-lectin_down-16_LSFM.json",
 "size":
@@ -9341,7 +9341,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:08.114256Z",
+"2021-05-18T13:15:23.224706Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0028_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -9417,7 +9417,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:08.482591Z",
+"2021-05-18T13:15:23.246011Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0029_ce-yo_down-16_LSFM.json",
 "size":
@@ -9493,7 +9493,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:09.135660Z",
+"2021-05-18T13:15:23.255659Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0030_ce-lectin_down-16_LSFM.json",
 "size":
@@ -9569,7 +9569,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:09.591332Z",
+"2021-05-18T13:15:23.265605Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0029_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -9645,7 +9645,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:09.721096Z",
+"2021-05-18T13:15:23.276564Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0030_ce-yo_down-16_LSFM.json",
 "size":
@@ -9721,7 +9721,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:09.870454Z",
+"2021-05-18T13:15:23.285258Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0029_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -9797,7 +9797,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:10.516018Z",
+"2021-05-18T13:15:23.293848Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0030_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -9873,7 +9873,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:10.758978Z",
+"2021-05-18T13:15:23.781477Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0031_ce-lectin_down-16_LSFM.json",
 "size":
@@ -9949,7 +9949,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:11.355434Z",
+"2021-05-18T13:15:23.304170Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0031_ce-yo_down-16_LSFM.json",
 "size":
@@ -10025,7 +10025,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:11.474718Z",
+"2021-05-18T13:15:23.804466Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0030_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -10101,7 +10101,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:12.034874Z",
+"2021-05-18T13:15:23.823444Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0032_ce-lectin_down-16_LSFM.json",
 "size":
@@ -10177,7 +10177,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:12.202964Z",
+"2021-05-18T13:15:23.835669Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0031_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -10253,7 +10253,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:12.699866Z",
+"2021-05-18T13:15:23.328427Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0031_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -10329,7 +10329,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:12.779079Z",
+"2021-05-18T13:15:23.848899Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0032_ce-yo_down-16_LSFM.json",
 "size":
@@ -10405,7 +10405,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:13.606595Z",
+"2021-05-18T13:15:23.862678Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0033_ce-lectin_down-16_LSFM.json",
 "size":
@@ -10481,7 +10481,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:13.726816Z",
+"2021-05-18T13:15:23.871048Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0032_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -10557,7 +10557,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:14.186799Z",
+"2021-05-18T13:15:23.892268Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0033_ce-yo_down-16_LSFM.json",
 "size":
@@ -10633,7 +10633,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:14.210991Z",
+"2021-05-18T13:15:23.343490Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0032_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -10709,7 +10709,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:14.856733Z",
+"2021-05-18T13:15:23.359645Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0034_ce-lectin_down-16_LSFM.json",
 "size":
@@ -10785,7 +10785,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:14.991812Z",
+"2021-05-18T13:15:23.373689Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0033_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -10861,7 +10861,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:15.718540Z",
+"2021-05-18T13:15:23.387514Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0034_ce-yo_down-16_LSFM.json",
 "size":
@@ -10937,7 +10937,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:16.128036Z",
+"2021-05-18T13:15:23.396492Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0033_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -11013,7 +11013,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:16.187553Z",
+"2021-05-18T13:15:23.905580Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0035_ce-lectin_down-16_LSFM.json",
 "size":
@@ -11089,7 +11089,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:16.675951Z",
+"2021-05-18T13:15:23.405916Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0034_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -11165,7 +11165,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:17.243133Z",
+"2021-05-18T13:15:23.925615Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0035_ce-yo_down-16_LSFM.json",
 "size":
@@ -11241,7 +11241,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:17.697540Z",
+"2021-05-18T13:15:23.415146Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0035_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -11317,7 +11317,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:18.022168Z",
+"2021-05-18T13:15:23.425084Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0036_ce-lectin_down-16_LSFM.json",
 "size":
@@ -11393,7 +11393,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:18.476743Z",
+"2021-05-18T13:15:23.435578Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0034_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -11469,7 +11469,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:18.598071Z",
+"2021-05-18T13:15:23.941615Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0035_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -11545,7 +11545,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:18.803959Z",
+"2021-05-18T13:15:23.960779Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0036_ce-yo_down-16_LSFM.json",
 "size":
@@ -11621,7 +11621,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:19.386631Z",
+"2021-05-18T13:15:23.982598Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0036_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -11697,7 +11697,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:19.873079Z",
+"2021-05-18T13:15:23.445459Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0037_ce-lectin_down-16_LSFM.json",
 "size":
@@ -11773,7 +11773,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:20.129656Z",
+"2021-05-18T13:15:23.997476Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0037_ce-yo_down-16_LSFM.json",
 "size":
@@ -11849,7 +11849,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:20.805316Z",
+"2021-05-18T13:15:24.014306Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0038_ce-lectin_down-16_LSFM.json",
 "size":
@@ -11925,7 +11925,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:20.835730Z",
+"2021-05-18T13:15:23.453960Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0036_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -12001,7 +12001,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:21.246719Z",
+"2021-05-18T13:15:24.032226Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0037_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -12077,7 +12077,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:22.017710Z",
+"2021-05-18T13:15:24.050055Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0038_ce-yo_down-16_LSFM.json",
 "size":
@@ -12153,7 +12153,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:22.127776Z",
+"2021-05-18T13:15:24.069067Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0037_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -12229,7 +12229,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:22.350578Z",
+"2021-05-18T13:15:24.086636Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0038_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -12305,7 +12305,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:22.410151Z",
+"2021-05-18T13:15:24.098095Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0039_ce-lectin_down-16_LSFM.json",
 "size":
@@ -12381,7 +12381,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:23.373432Z",
+"2021-05-18T13:15:24.118266Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0039_ce-yo_down-16_LSFM.json",
 "size":
@@ -12457,7 +12457,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:23.434903Z",
+"2021-05-18T13:15:24.137014Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0038_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -12533,7 +12533,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:23.672586Z",
+"2021-05-18T13:15:23.469486Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0040_ce-lectin_down-16_LSFM.json",
 "size":
@@ -12609,7 +12609,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:24.148610Z",
+"2021-05-18T13:15:24.147465Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0039_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -12685,7 +12685,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:24.826747Z",
+"2021-05-18T13:15:24.161977Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0040_ce-yo_down-16_LSFM.json",
 "size":
@@ -12761,7 +12761,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:24.863505Z",
+"2021-05-18T13:15:23.478945Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0039_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -12837,7 +12837,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:25.388511Z",
+"2021-05-18T13:15:23.487465Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0041_ce-lectin_down-16_LSFM.json",
 "size":
@@ -12913,7 +12913,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:25.495391Z",
+"2021-05-18T13:15:24.172158Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0040_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -12989,7 +12989,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:25.828165Z",
+"2021-05-18T13:15:23.496204Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0040_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -13065,7 +13065,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:26.051456Z",
+"2021-05-18T13:15:24.206057Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0041_ce-yo_down-16_LSFM.json",
 "size":
@@ -13141,7 +13141,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:27.034752Z",
+"2021-05-18T13:15:24.237523Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0042_ce-lectin_down-16_LSFM.json",
 "size":
@@ -13217,7 +13217,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:27.171241Z",
+"2021-05-18T13:15:23.515937Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0041_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -13293,7 +13293,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:27.267473Z",
+"2021-05-18T13:15:23.528611Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0042_ce-yo_down-16_LSFM.json",
 "size":
@@ -13369,7 +13369,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:27.888068Z",
+"2021-05-18T13:15:23.538964Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0041_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -13445,7 +13445,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:28.249306Z",
+"2021-05-18T13:15:23.562506Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0042_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -13521,7 +13521,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:28.537711Z",
+"2021-05-18T13:15:23.577354Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0043_ce-lectin_down-16_LSFM.json",
 "size":
@@ -13597,7 +13597,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:29.055809Z",
+"2021-05-18T13:15:23.586263Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0042_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -13673,7 +13673,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:29.168715Z",
+"2021-05-18T13:15:23.594496Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0043_ce-yo_down-16_LSFM.json",
 "size":
@@ -13749,7 +13749,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:29.634881Z",
+"2021-05-18T13:15:24.275710Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0043_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -13825,7 +13825,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:29.927353Z",
+"2021-05-18T13:15:23.613686Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0044_ce-lectin_down-16_LSFM.json",
 "size":
@@ -13901,7 +13901,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:30.739286Z",
+"2021-05-18T13:15:24.285424Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0044_ce-yo_down-16_LSFM.json",
 "size":
@@ -13977,7 +13977,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:30.975636Z",
+"2021-05-18T13:15:23.633960Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0043_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -14053,7 +14053,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:31.208161Z",
+"2021-05-18T13:15:24.676613Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0045_ce-lectin_down-16_LSFM.json",
 "size":
@@ -14129,7 +14129,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:31.365565Z",
+"2021-05-18T13:15:24.296352Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0044_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -14205,7 +14205,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:31.917815Z",
+"2021-05-18T13:15:24.306172Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0044_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -14281,7 +14281,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:32.192634Z",
+"2021-05-18T13:15:24.318219Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0045_ce-yo_down-16_LSFM.json",
 "size":
@@ -14357,7 +14357,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:32.776819Z",
+"2021-05-18T13:15:24.686019Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0046_ce-lectin_down-16_LSFM.json",
 "size":
@@ -14433,7 +14433,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:33.016510Z",
+"2021-05-18T13:15:24.697035Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0045_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -14509,7 +14509,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:33.660846Z",
+"2021-05-18T13:15:24.330567Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0046_ce-yo_down-16_LSFM.json",
 "size":
@@ -14585,7 +14585,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:34.013930Z",
+"2021-05-18T13:15:24.708508Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0045_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -14661,7 +14661,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:34.115233Z",
+"2021-05-18T13:15:24.717860Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0047_ce-lectin_down-16_LSFM.json",
 "size":
@@ -14737,7 +14737,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:34.350625Z",
+"2021-05-18T13:15:24.735185Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0046_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -14813,7 +14813,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:35.357930Z",
+"2021-05-18T13:15:24.341561Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0047_ce-yo_down-16_LSFM.json",
 "size":
@@ -14889,7 +14889,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:35.387453Z",
+"2021-05-18T13:15:24.748511Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0046_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -14965,7 +14965,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:35.699506Z",
+"2021-05-18T13:15:24.759837Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0048_ce-lectin_down-16_LSFM.json",
 "size":
@@ -15041,7 +15041,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:36.019618Z",
+"2021-05-18T13:15:24.349988Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0047_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -15117,7 +15117,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:36.681551Z",
+"2021-05-18T13:15:24.358112Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0048_ce-yo_down-16_LSFM.json",
 "size":
@@ -15193,7 +15193,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:36.800541Z",
+"2021-05-18T13:15:24.768432Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0047_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -15269,7 +15269,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:37.525395Z",
+"2021-05-18T13:15:24.376376Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0049_ce-lectin_down-16_LSFM.json",
 "size":
@@ -15345,7 +15345,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:37.814381Z",
+"2021-05-18T13:15:24.385346Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0048_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -15421,7 +15421,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:37.933322Z",
+"2021-05-18T13:15:24.394085Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0049_ce-yo_down-16_LSFM.json",
 "size":
@@ -15497,7 +15497,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:38.211399Z",
+"2021-05-18T13:15:24.777032Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0048_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -15573,7 +15573,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:38.945941Z",
+"2021-05-18T13:15:24.402730Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0049_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -15649,7 +15649,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:39.202910Z",
+"2021-05-18T13:15:24.412381Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0050_ce-lectin_down-16_LSFM.json",
 "size":
@@ -15725,7 +15725,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:39.536025Z",
+"2021-05-18T13:15:24.787569Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0050_ce-yo_down-16_LSFM.json",
 "size":
@@ -15801,7 +15801,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:40.084567Z",
+"2021-05-18T13:15:24.420620Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0049_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -15877,7 +15877,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:40.116931Z",
+"2021-05-18T13:15:24.797509Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0051_ce-lectin_down-16_LSFM.json",
 "size":
@@ -15953,7 +15953,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:40.209528Z",
+"2021-05-18T13:15:24.809855Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0050_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -16029,7 +16029,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:41.051809Z",
+"2021-05-18T13:15:24.823399Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0050_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -16105,7 +16105,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:41.406554Z",
+"2021-05-18T13:15:24.831189Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0051_ce-yo_down-16_LSFM.json",
 "size":
@@ -16181,7 +16181,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:41.517530Z",
+"2021-05-18T13:15:24.429525Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0052_ce-lectin_down-16_LSFM.json",
 "size":
@@ -16257,7 +16257,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:41.589721Z",
+"2021-05-18T13:15:24.841290Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0051_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -16333,7 +16333,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:42.404606Z",
+"2021-05-18T13:15:24.444656Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0051_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -16409,7 +16409,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:42.627252Z",
+"2021-05-18T13:15:24.850077Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0052_ce-yo_down-16_LSFM.json",
 "size":
@@ -16485,7 +16485,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:43.116309Z",
+"2021-05-18T13:15:24.458779Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0053_ce-lectin_down-16_LSFM.json",
 "size":
@@ -16561,7 +16561,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:43.228647Z",
+"2021-05-18T13:15:24.468531Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0052_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -16637,7 +16637,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:43.943023Z",
+"2021-05-18T13:15:24.860814Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0053_ce-yo_down-16_LSFM.json",
 "size":
@@ -16713,7 +16713,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:44.157663Z",
+"2021-05-18T13:15:24.871119Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0052_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -16789,7 +16789,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:44.571416Z",
+"2021-05-18T13:15:24.887115Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0054_ce-lectin_down-16_LSFM.json",
 "size":
@@ -16865,7 +16865,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:45.048520Z",
+"2021-05-18T13:15:24.896350Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0053_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -16941,7 +16941,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:45.519560Z",
+"2021-05-18T13:15:24.929961Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0054_ce-yo_down-16_LSFM.json",
 "size":
@@ -17017,7 +17017,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:45.691316Z",
+"2021-05-18T13:15:24.509619Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0053_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -17093,7 +17093,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:46.270690Z",
+"2021-05-18T13:15:24.517838Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0055_ce-lectin_down-16_LSFM.json",
 "size":
@@ -17169,7 +17169,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:46.487450Z",
+"2021-05-18T13:15:24.938525Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0054_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -17245,7 +17245,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:46.865770Z",
+"2021-05-18T13:15:24.525780Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0055_ce-yo_down-16_LSFM.json",
 "size":
@@ -17321,7 +17321,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:47.342080Z",
+"2021-05-18T13:15:24.951150Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0054_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -17397,7 +17397,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:47.862378Z",
+"2021-05-18T13:15:24.968172Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0056_ce-lectin_down-16_LSFM.json",
 "size":
@@ -17473,7 +17473,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:48.052515Z",
+"2021-05-18T13:15:24.998514Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0055_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -17549,7 +17549,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:48.692175Z",
+"2021-05-18T13:15:25.011844Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0056_ce-yo_down-16_LSFM.json",
 "size":
@@ -17625,7 +17625,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:49.147799Z",
+"2021-05-18T13:15:24.535198Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0055_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -17701,7 +17701,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:49.238701Z",
+"2021-05-18T13:15:24.544123Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0057_ce-lectin_down-16_LSFM.json",
 "size":
@@ -17777,7 +17777,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:49.359698Z",
+"2021-05-18T13:15:24.552768Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0056_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -17853,7 +17853,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:50.158748Z",
+"2021-05-18T13:15:24.561257Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0056_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -17929,7 +17929,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:50.256001Z",
+"2021-05-18T13:15:25.022976Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0057_ce-yo_down-16_LSFM.json",
 "size":
@@ -18005,7 +18005,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:50.749868Z",
+"2021-05-18T13:15:25.032481Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0058_ce-lectin_down-16_LSFM.json",
 "size":
@@ -18081,7 +18081,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:50.879621Z",
+"2021-05-18T13:15:24.569047Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0057_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -18157,7 +18157,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:51.613267Z",
+"2021-05-18T13:15:24.577574Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0058_ce-yo_down-16_LSFM.json",
 "size":
@@ -18233,7 +18233,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:51.983646Z",
+"2021-05-18T13:15:25.043774Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0057_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -18309,7 +18309,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:52.378827Z",
+"2021-05-18T13:15:25.053350Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0059_ce-lectin_down-16_LSFM.json",
 "size":
@@ -18385,7 +18385,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:52.817884Z",
+"2021-05-18T13:15:25.065900Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0058_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -18461,7 +18461,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:53.125692Z",
+"2021-05-18T13:15:25.075358Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0059_ce-yo_down-16_LSFM.json",
 "size":
@@ -18537,7 +18537,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:53.299760Z",
+"2021-05-18T13:15:25.087831Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0058_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -18613,7 +18613,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:53.974391Z",
+"2021-05-18T13:15:24.585606Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0060_ce-lectin_down-16_LSFM.json",
 "size":
@@ -18689,7 +18689,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:54.123608Z",
+"2021-05-18T13:15:24.593727Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0059_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -18765,7 +18765,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:54.654866Z",
+"2021-05-18T13:15:25.110573Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0060_ce-yo_down-16_LSFM.json",
 "size":
@@ -18841,7 +18841,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:54.963461Z",
+"2021-05-18T13:15:24.602270Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0059_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -18917,7 +18917,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:55.493255Z",
+"2021-05-18T13:15:24.611885Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0061_ce-lectin_down-16_LSFM.json",
 "size":
@@ -18993,7 +18993,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:55.693406Z",
+"2021-05-18T13:15:25.125331Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0060_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -19069,7 +19069,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:56.345862Z",
+"2021-05-18T13:15:24.621392Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0061_ce-yo_down-16_LSFM.json",
 "size":
@@ -19145,7 +19145,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:56.788680Z",
+"2021-05-18T13:15:25.141347Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0060_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -19221,7 +19221,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:56.904462Z",
+"2021-05-18T13:15:25.150954Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0062_ce-lectin_down-16_LSFM.json",
 "size":
@@ -19297,7 +19297,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:57.166757Z",
+"2021-05-18T13:15:24.629803Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0061_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -19373,7 +19373,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:58.053851Z",
+"2021-05-18T13:15:25.161451Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0061_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -19449,7 +19449,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:58.196515Z",
+"2021-05-18T13:15:24.638000Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0062_ce-yo_down-16_LSFM.json",
 "size":
@@ -19525,7 +19525,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:58.562820Z",
+"2021-05-18T13:15:24.648125Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0063_ce-lectin_down-16_LSFM.json",
 "size":
@@ -19601,7 +19601,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:58.735570Z",
+"2021-05-18T13:15:24.658197Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0062_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -19677,7 +19677,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:59.433312Z",
+"2021-05-18T13:15:25.214746Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0062_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -19753,7 +19753,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:12:59.542205Z",
+"2021-05-18T13:15:24.667456Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0063_ce-yo_down-16_LSFM.json",
 "size":
@@ -19829,7 +19829,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:00.231076Z",
+"2021-05-18T13:15:25.223916Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0064_ce-lectin_down-16_LSFM.json",
 "size":
@@ -19905,7 +19905,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:00.470641Z",
+"2021-05-18T13:15:25.246567Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0063_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -19981,7 +19981,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:00.785758Z",
+"2021-05-18T13:15:25.255559Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0064_ce-yo_down-16_LSFM.json",
 "size":
@@ -20057,7 +20057,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:00.939333Z",
+"2021-05-18T13:15:25.270366Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0063_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -20133,7 +20133,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:01.699040Z",
+"2021-05-18T13:15:25.768249Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0065_ce-lectin_down-16_LSFM.json",
 "size":
@@ -20209,7 +20209,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:01.817301Z",
+"2021-05-18T13:15:25.278868Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0064_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -20285,7 +20285,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:02.401850Z",
+"2021-05-18T13:15:25.287482Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0065_ce-yo_down-16_LSFM.json",
 "size":
@@ -20361,7 +20361,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:02.701601Z",
+"2021-05-18T13:15:25.781030Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0064_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -20437,7 +20437,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:03.099058Z",
+"2021-05-18T13:15:25.299192Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0065_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -20513,7 +20513,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:03.112201Z",
+"2021-05-18T13:15:25.791087Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0066_ce-lectin_down-16_LSFM.json",
 "size":
@@ -20589,7 +20589,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:03.927164Z",
+"2021-05-18T13:15:25.800660Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0066_ce-yo_down-16_LSFM.json",
 "size":
@@ -20665,7 +20665,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:03.979344Z",
+"2021-05-18T13:15:25.809490Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0065_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -20741,7 +20741,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:04.529981Z",
+"2021-05-18T13:15:25.819126Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0067_ce-lectin_down-16_LSFM.json",
 "size":
@@ -20817,7 +20817,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:04.680901Z",
+"2021-05-18T13:15:25.827288Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0066_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -20893,7 +20893,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:05.396885Z",
+"2021-05-18T13:15:25.309912Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0067_ce-yo_down-16_LSFM.json",
 "size":
@@ -20969,7 +20969,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:05.443536Z",
+"2021-05-18T13:15:25.835935Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0066_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -21045,7 +21045,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:05.962962Z",
+"2021-05-18T13:15:25.318904Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0068_ce-lectin_down-16_LSFM.json",
 "size":
@@ -21121,7 +21121,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:06.138528Z",
+"2021-05-18T13:15:25.843934Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0067_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -21197,7 +21197,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:06.947342Z",
+"2021-05-18T13:15:25.329883Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0068_ce-yo_down-16_LSFM.json",
 "size":
@@ -21273,7 +21273,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:06.982424Z",
+"2021-05-18T13:15:25.851982Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0067_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -21349,7 +21349,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:07.526813Z",
+"2021-05-18T13:15:25.878670Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0069_ce-lectin_down-16_LSFM.json",
 "size":
@@ -21425,7 +21425,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:07.933810Z",
+"2021-05-18T13:15:25.348540Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0068_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -21501,7 +21501,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:08.252353Z",
+"2021-05-18T13:15:25.908748Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0069_ce-yo_down-16_LSFM.json",
 "size":
@@ -21577,7 +21577,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:08.493817Z",
+"2021-05-18T13:15:25.916754Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0068_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -21653,7 +21653,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:09.362554Z",
+"2021-05-18T13:15:25.361436Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0069_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -21729,7 +21729,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:09.438829Z",
+"2021-05-18T13:15:25.372329Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0070_ce-lectin_down-16_LSFM.json",
 "size":
@@ -21805,7 +21805,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:09.917866Z",
+"2021-05-18T13:15:25.381542Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0070_ce-yo_down-16_LSFM.json",
 "size":
@@ -21881,7 +21881,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:10.113713Z",
+"2021-05-18T13:15:25.391758Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0069_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -21957,7 +21957,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:10.628709Z",
+"2021-05-18T13:15:25.401770Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0070_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -22033,7 +22033,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:10.756905Z",
+"2021-05-18T13:15:25.925243Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0071_ce-lectin_down-16_LSFM.json",
 "size":
@@ -22109,7 +22109,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:11.471304Z",
+"2021-05-18T13:15:25.411092Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0071_ce-yo_down-16_LSFM.json",
 "size":
@@ -22185,7 +22185,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:11.866170Z",
+"2021-05-18T13:15:25.420677Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0070_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -22261,7 +22261,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:11.989314Z",
+"2021-05-18T13:15:25.438520Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0072_ce-lectin_down-16_LSFM.json",
 "size":
@@ -22337,7 +22337,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:12.183550Z",
+"2021-05-18T13:15:25.935438Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0071_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -22413,7 +22413,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:13.241894Z",
+"2021-05-18T13:15:25.944635Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0071_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -22489,7 +22489,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:13.340549Z",
+"2021-05-18T13:15:25.954524Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0072_ce-yo_down-16_LSFM.json",
 "size":
@@ -22565,7 +22565,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:13.487511Z",
+"2021-05-18T13:15:25.965672Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0073_ce-lectin_down-16_LSFM.json",
 "size":
@@ -22641,7 +22641,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:13.840201Z",
+"2021-05-18T13:15:25.974769Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0072_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -22717,7 +22717,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:14.441630Z",
+"2021-05-18T13:15:25.995351Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0072_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -22793,7 +22793,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:14.732071Z",
+"2021-05-18T13:15:25.452030Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0073_ce-yo_down-16_LSFM.json",
 "size":
@@ -22869,7 +22869,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:15.119711Z",
+"2021-05-18T13:15:25.463161Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0074_ce-lectin_down-16_LSFM.json",
 "size":
@@ -22945,7 +22945,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:15.709315Z",
+"2021-05-18T13:15:26.009320Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0073_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -23021,7 +23021,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:15.912199Z",
+"2021-05-18T13:15:25.475171Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0074_ce-yo_down-16_LSFM.json",
 "size":
@@ -23097,7 +23097,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:16.007381Z",
+"2021-05-18T13:15:25.492303Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0073_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -23173,7 +23173,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:16.874859Z",
+"2021-05-18T13:15:25.508838Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0075_ce-lectin_down-16_LSFM.json",
 "size":
@@ -23249,7 +23249,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:17.259195Z",
+"2021-05-18T13:15:26.019118Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0075_ce-yo_down-16_LSFM.json",
 "size":
@@ -23325,7 +23325,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:17.429622Z",
+"2021-05-18T13:15:25.521537Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0074_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -23401,7 +23401,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:17.614485Z",
+"2021-05-18T13:15:26.030424Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0074_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -23477,7 +23477,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:18.195608Z",
+"2021-05-18T13:15:25.541134Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0075_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -23553,7 +23553,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:18.439008Z",
+"2021-05-18T13:15:26.039916Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0076_ce-lectin_down-16_LSFM.json",
 "size":
@@ -23629,7 +23629,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:19.083550Z",
+"2021-05-18T13:15:25.557873Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0075_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -23705,7 +23705,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:19.244952Z",
+"2021-05-18T13:15:26.049364Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0076_ce-yo_down-16_LSFM.json",
 "size":
@@ -23781,7 +23781,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:19.798115Z",
+"2021-05-18T13:15:25.571101Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0077_ce-lectin_down-16_LSFM.json",
 "size":
@@ -23857,7 +23857,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:20.102826Z",
+"2021-05-18T13:15:26.069351Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0076_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -23933,7 +23933,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:20.334339Z",
+"2021-05-18T13:15:25.601974Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0076_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -24009,7 +24009,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:20.440953Z",
+"2021-05-18T13:15:26.080123Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0077_ce-yo_down-16_LSFM.json",
 "size":
@@ -24085,7 +24085,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:21.419067Z",
+"2021-05-18T13:15:26.092236Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0077_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -24161,7 +24161,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:21.494116Z",
+"2021-05-18T13:15:26.103835Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0078_ce-lectin_down-16_LSFM.json",
 "size":
@@ -24237,7 +24237,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:21.692289Z",
+"2021-05-18T13:15:25.614828Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0078_ce-yo_down-16_LSFM.json",
 "size":
@@ -24313,7 +24313,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:22.231056Z",
+"2021-05-18T13:15:25.633737Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0077_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -24389,7 +24389,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:22.480965Z",
+"2021-05-18T13:15:25.645329Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0078_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -24465,7 +24465,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:22.802177Z",
+"2021-05-18T13:15:25.653213Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0079_ce-lectin_down-16_LSFM.json",
 "size":
@@ -24541,7 +24541,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:23.436602Z",
+"2021-05-18T13:15:26.115725Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0078_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -24617,7 +24617,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:23.888011Z",
+"2021-05-18T13:15:26.127575Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0079_ce-yo_down-16_LSFM.json",
 "size":
@@ -24693,7 +24693,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:24.003479Z",
+"2021-05-18T13:15:26.137454Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0079_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -24769,7 +24769,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:24.088867Z",
+"2021-05-18T13:15:26.145610Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0080_ce-lectin_down-16_LSFM.json",
 "size":
@@ -24845,7 +24845,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:24.776298Z",
+"2021-05-18T13:15:25.675654Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0079_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -24921,7 +24921,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:25.395550Z",
+"2021-05-18T13:15:26.153361Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0080_ce-yo_down-16_LSFM.json",
 "size":
@@ -24997,7 +24997,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:25.562812Z",
+"2021-05-18T13:15:26.161187Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0081_ce-lectin_down-16_LSFM.json",
 "size":
@@ -25073,7 +25073,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:25.978359Z",
+"2021-05-18T13:15:26.169289Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0080_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -25149,7 +25149,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:26.615948Z",
+"2021-05-18T13:15:26.176115Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0080_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -25225,7 +25225,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:26.673846Z",
+"2021-05-18T13:15:26.184557Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0081_ce-yo_down-16_LSFM.json",
 "size":
@@ -25301,7 +25301,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:27.160239Z",
+"2021-05-18T13:15:26.193670Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0081_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -25377,7 +25377,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:27.352695Z",
+"2021-05-18T13:15:26.567319Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0082_ce-lectin_down-16_LSFM.json",
 "size":
@@ -25453,7 +25453,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:27.950311Z",
+"2021-05-18T13:15:26.576470Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0081_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -25529,7 +25529,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:28.015418Z",
+"2021-05-18T13:15:26.586152Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0082_ce-yo_down-16_LSFM.json",
 "size":
@@ -25605,7 +25605,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:28.687213Z",
+"2021-05-18T13:15:26.598218Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0083_ce-lectin_down-16_LSFM.json",
 "size":
@@ -25681,7 +25681,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:29.024345Z",
+"2021-05-18T13:15:26.609137Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0082_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -25757,7 +25757,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:29.314758Z",
+"2021-05-18T13:15:26.202907Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0083_ce-yo_down-16_LSFM.json",
 "size":
@@ -25833,7 +25833,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:29.631214Z",
+"2021-05-18T13:15:26.618167Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0082_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -25909,7 +25909,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:30.451533Z",
+"2021-05-18T13:15:26.211521Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0083_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -25985,7 +25985,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:30.561256Z",
+"2021-05-18T13:15:26.221197Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0084_ce-lectin_down-16_LSFM.json",
 "size":
@@ -26061,7 +26061,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:30.929805Z",
+"2021-05-18T13:15:26.634154Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0084_ce-yo_down-16_LSFM.json",
 "size":
@@ -26137,7 +26137,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:31.470213Z",
+"2021-05-18T13:15:26.653784Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0083_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -26213,7 +26213,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:31.474140Z",
+"2021-05-18T13:15:26.229924Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0084_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -26289,7 +26289,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:31.818292Z",
+"2021-05-18T13:15:26.664434Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0085_ce-lectin_down-16_LSFM.json",
 "size":
@@ -26365,7 +26365,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:32.720756Z",
+"2021-05-18T13:15:26.238194Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0085_ce-yo_down-16_LSFM.json",
 "size":
@@ -26441,7 +26441,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:32.781194Z",
+"2021-05-18T13:15:26.681147Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0084_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -26517,7 +26517,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:33.007466Z",
+"2021-05-18T13:15:26.697584Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0086_ce-lectin_down-16_LSFM.json",
 "size":
@@ -26593,7 +26593,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:33.231947Z",
+"2021-05-18T13:15:26.708211Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0085_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -26669,7 +26669,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:34.186189Z",
+"2021-05-18T13:15:26.719357Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0086_ce-yo_down-16_LSFM.json",
 "size":
@@ -26745,7 +26745,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:34.326550Z",
+"2021-05-18T13:15:26.246347Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0085_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -26821,7 +26821,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:34.378717Z",
+"2021-05-18T13:15:26.729229Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0087_ce-lectin_down-16_LSFM.json",
 "size":
@@ -26897,7 +26897,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:34.974022Z",
+"2021-05-18T13:15:26.254322Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0086_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -26973,7 +26973,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:35.574106Z",
+"2021-05-18T13:15:26.745931Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0087_ce-yo_down-16_LSFM.json",
 "size":
@@ -27049,7 +27049,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:35.848186Z",
+"2021-05-18T13:15:26.760364Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0086_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -27125,7 +27125,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:35.917847Z",
+"2021-05-18T13:15:26.262704Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0088_ce-lectin_down-16_LSFM.json",
 "size":
@@ -27201,7 +27201,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:36.159472Z",
+"2021-05-18T13:15:26.773392Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0087_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -27277,7 +27277,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:36.746583Z",
+"2021-05-18T13:15:26.271525Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0087_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -27353,7 +27353,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:37.374859Z",
+"2021-05-18T13:15:26.785767Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0088_ce-yo_down-16_LSFM.json",
 "size":
@@ -27429,7 +27429,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:37.419561Z",
+"2021-05-18T13:15:26.280136Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0089_ce-lectin_down-16_LSFM.json",
 "size":
@@ -27505,7 +27505,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:38.232961Z",
+"2021-05-18T13:15:26.287874Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0088_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -27581,7 +27581,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:38.318229Z",
+"2021-05-18T13:15:26.297131Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0089_ce-yo_down-16_LSFM.json",
 "size":
@@ -27657,7 +27657,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:38.343562Z",
+"2021-05-18T13:15:26.806955Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0088_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -27733,7 +27733,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:38.962466Z",
+"2021-05-18T13:15:26.822328Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0089_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -27809,7 +27809,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:39.606471Z",
+"2021-05-18T13:15:26.318110Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0090_ce-lectin_down-16_LSFM.json",
 "size":
@@ -27885,7 +27885,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:39.619687Z",
+"2021-05-18T13:15:26.832419Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0090_ce-yo_down-16_LSFM.json",
 "size":
@@ -27961,7 +27961,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:40.421830Z",
+"2021-05-18T13:15:26.843567Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0089_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -28037,7 +28037,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:40.705264Z",
+"2021-05-18T13:15:26.327393Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0091_ce-lectin_down-16_LSFM.json",
 "size":
@@ -28113,7 +28113,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:40.809828Z",
+"2021-05-18T13:15:26.337601Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0090_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -28189,7 +28189,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:41.493040Z",
+"2021-05-18T13:15:26.347674Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0091_ce-yo_down-16_LSFM.json",
 "size":
@@ -28265,7 +28265,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:41.733653Z",
+"2021-05-18T13:15:26.852739Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0092_ce-lectin_down-16_LSFM.json",
 "size":
@@ -28341,7 +28341,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:41.811708Z",
+"2021-05-18T13:15:26.355980Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0091_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -28417,7 +28417,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:42.672948Z",
+"2021-05-18T13:15:26.365107Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0092_ce-yo_down-16_LSFM.json",
 "size":
@@ -28493,7 +28493,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:42.725799Z",
+"2021-05-18T13:15:26.373872Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0090_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -28569,7 +28569,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:43.389034Z",
+"2021-05-18T13:15:26.382117Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0093_ce-lectin_down-16_LSFM.json",
 "size":
@@ -28645,7 +28645,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:43.696783Z",
+"2021-05-18T13:15:26.391354Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0092_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -28721,7 +28721,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:43.846528Z",
+"2021-05-18T13:15:26.862524Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0092_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -28797,7 +28797,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:44.098310Z",
+"2021-05-18T13:15:26.399655Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0091_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -28873,7 +28873,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:44.312445Z",
+"2021-05-18T13:15:26.869869Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0093_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -28949,7 +28949,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:44.336320Z",
+"2021-05-18T13:15:26.407961Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0093_ce-yo_down-16_LSFM.json",
 "size":
@@ -29025,7 +29025,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:45.128569Z",
+"2021-05-18T13:15:26.886233Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0094_ce-lectin_down-16_LSFM.json",
 "size":
@@ -29101,7 +29101,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:45.726154Z",
+"2021-05-18T13:15:26.904506Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0094_ce-yo_down-16_LSFM.json",
 "size":
@@ -29177,7 +29177,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:46.033814Z",
+"2021-05-18T13:15:26.429844Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0093_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -29253,7 +29253,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:46.607408Z",
+"2021-05-18T13:15:26.448880Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0095_ce-lectin_down-16_LSFM.json",
 "size":
@@ -29329,7 +29329,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:46.701236Z",
+"2021-05-18T13:15:26.461549Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0094_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -29405,7 +29405,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:47.130256Z",
+"2021-05-18T13:15:26.927564Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0094_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -29481,7 +29481,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:47.322387Z",
+"2021-05-18T13:15:26.939769Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0095_ce-yo_down-16_LSFM.json",
 "size":
@@ -29557,7 +29557,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:47.866505Z",
+"2021-05-18T13:15:26.993648Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0095_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -29633,7 +29633,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:48.221051Z",
+"2021-05-18T13:15:27.012796Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0096_ce-lectin_down-16_LSFM.json",
 "size":
@@ -29709,7 +29709,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:48.941026Z",
+"2021-05-18T13:15:27.022552Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0096_ce-yo_down-16_LSFM.json",
 "size":
@@ -29785,7 +29785,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:48.970570Z",
+"2021-05-18T13:15:26.479094Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0095_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -29861,7 +29861,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:49.494041Z",
+"2021-05-18T13:15:26.488530Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0096_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -29937,7 +29937,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:49.721655Z",
+"2021-05-18T13:15:27.031956Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0097_ce-lectin_down-16_LSFM.json",
 "size":
@@ -30013,7 +30013,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:50.225013Z",
+"2021-05-18T13:15:26.496799Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0096_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -30089,7 +30089,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:50.483871Z",
+"2021-05-18T13:15:26.505103Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0097_ce-yo_down-16_LSFM.json",
 "size":
@@ -30165,7 +30165,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:51.156065Z",
+"2021-05-18T13:15:26.517089Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0097_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -30241,7 +30241,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:51.347622Z",
+"2021-05-18T13:15:27.044100Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0098_ce-lectin_down-16_LSFM.json",
 "size":
@@ -30317,7 +30317,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:51.948400Z",
+"2021-05-18T13:15:27.056872Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0098_ce-yo_down-16_LSFM.json",
 "size":
@@ -30393,7 +30393,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:52.113402Z",
+"2021-05-18T13:15:26.526560Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0097_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -30469,7 +30469,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:52.537914Z",
+"2021-05-18T13:15:26.535951Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0098_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -30545,7 +30545,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:52.582089Z",
+"2021-05-18T13:15:27.068076Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0099_ce-lectin_down-16_LSFM.json",
 "size":
@@ -30621,7 +30621,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:53.393054Z",
+"2021-05-18T13:15:26.547851Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0098_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -30697,7 +30697,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:53.433553Z",
+"2021-05-18T13:15:27.080611Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0099_ce-yo_down-16_LSFM.json",
 "size":
@@ -30773,7 +30773,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:54.069968Z",
+"2021-05-18T13:15:26.557969Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0100_ce-lectin_down-16_LSFM.json",
 "size":
@@ -30849,7 +30849,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:54.449655Z",
+"2021-05-18T13:15:27.090431Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0099_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -30925,7 +30925,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:54.724371Z",
+"2021-05-18T13:15:27.128604Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0100_ce-yo_down-16_LSFM.json",
 "size":
@@ -31001,7 +31001,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:54.763110Z",
+"2021-05-18T13:15:27.103835Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0099_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -31077,7 +31077,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:55.631757Z",
+"2021-05-18T13:15:27.595060Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0100_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -31153,7 +31153,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:55.757227Z",
+"2021-05-18T13:15:27.606862Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0101_ce-lectin_down-16_LSFM.json",
 "size":
@@ -31229,7 +31229,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:56.234512Z",
+"2021-05-18T13:15:27.620754Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0101_ce-yo_down-16_LSFM.json",
 "size":
@@ -31305,7 +31305,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:56.502192Z",
+"2021-05-18T13:15:27.157616Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0100_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -31381,7 +31381,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:56.967144Z",
+"2021-05-18T13:15:27.172641Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0101_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -31457,7 +31457,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:57.017291Z",
+"2021-05-18T13:15:27.629230Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0102_ce-lectin_down-16_LSFM.json",
 "size":
@@ -31533,7 +31533,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:57.918067Z",
+"2021-05-18T13:15:27.642186Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0101_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -31609,7 +31609,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:57.947747Z",
+"2021-05-18T13:15:27.190101Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0102_ce-yo_down-16_LSFM.json",
 "size":
@@ -31685,7 +31685,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:58.188180Z",
+"2021-05-18T13:15:27.205716Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0103_ce-lectin_down-16_LSFM.json",
 "size":
@@ -31761,7 +31761,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:58.637312Z",
+"2021-05-18T13:15:27.656062Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0102_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -31837,7 +31837,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:58.869356Z",
+"2021-05-18T13:15:27.669207Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0102_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -31913,7 +31913,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:13:59.342039Z",
+"2021-05-18T13:15:27.678239Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0103_ce-yo_down-16_LSFM.json",
 "size":
@@ -31989,7 +31989,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:00.506804Z",
+"2021-05-18T13:15:27.232614Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0103_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -32065,7 +32065,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:00.546895Z",
+"2021-05-18T13:15:27.689250Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0104_ce-lectin_down-16_LSFM.json",
 "size":
@@ -32141,7 +32141,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:00.683621Z",
+"2021-05-18T13:15:27.700478Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0103_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -32217,7 +32217,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:00.689625Z",
+"2021-05-18T13:15:27.245870Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0104_ce-yo_down-16_LSFM.json",
 "size":
@@ -32293,7 +32293,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:01.491233Z",
+"2021-05-18T13:15:27.269477Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0104_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -32369,7 +32369,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:01.964494Z",
+"2021-05-18T13:15:27.739625Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0105_ce-lectin_down-16_LSFM.json",
 "size":
@@ -32445,7 +32445,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:02.322858Z",
+"2021-05-18T13:15:27.748303Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0105_ce-yo_down-16_LSFM.json",
 "size":
@@ -32521,7 +32521,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:02.572392Z",
+"2021-05-18T13:15:27.282590Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0104_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -32597,7 +32597,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:03.153782Z",
+"2021-05-18T13:15:27.757430Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0105_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -32673,7 +32673,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:03.161011Z",
+"2021-05-18T13:15:27.293581Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0106_ce-lectin_down-16_LSFM.json",
 "size":
@@ -32749,7 +32749,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:03.882323Z",
+"2021-05-18T13:15:27.304606Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0105_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -32825,7 +32825,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:03.916192Z",
+"2021-05-18T13:15:27.765564Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0106_ce-yo_down-16_LSFM.json",
 "size":
@@ -32901,7 +32901,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:04.594049Z",
+"2021-05-18T13:15:27.774572Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0106_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -32977,7 +32977,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:04.595846Z",
+"2021-05-18T13:15:27.317052Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0107_ce-lectin_down-16_LSFM.json",
 "size":
@@ -33053,7 +33053,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:05.291734Z",
+"2021-05-18T13:15:27.783692Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0107_ce-yo_down-16_LSFM.json",
 "size":
@@ -33129,7 +33129,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:05.316361Z",
+"2021-05-18T13:15:27.330789Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0106_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -33205,7 +33205,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:06.072902Z",
+"2021-05-18T13:15:27.346692Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0108_ce-lectin_down-16_LSFM.json",
 "size":
@@ -33281,7 +33281,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:06.200097Z",
+"2021-05-18T13:15:27.794730Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0107_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -33357,7 +33357,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:06.761662Z",
+"2021-05-18T13:15:27.803237Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0108_ce-yo_down-16_LSFM.json",
 "size":
@@ -33433,7 +33433,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:06.820232Z",
+"2021-05-18T13:15:27.366463Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0107_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -33509,7 +33509,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:07.473649Z",
+"2021-05-18T13:15:27.377891Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0109_ce-lectin_down-16_LSFM.json",
 "size":
@@ -33585,7 +33585,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:07.782553Z",
+"2021-05-18T13:15:27.812814Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0108_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -33661,7 +33661,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:08.575401Z",
+"2021-05-18T13:15:27.386556Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0109_ce-yo_down-16_LSFM.json",
 "size":
@@ -33737,7 +33737,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:08.773954Z",
+"2021-05-18T13:15:27.395610Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0108_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -33813,7 +33813,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:09.064046Z",
+"2021-05-18T13:15:27.828425Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0110_ce-lectin_down-16_LSFM.json",
 "size":
@@ -33889,7 +33889,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:09.492129Z",
+"2021-05-18T13:15:27.402652Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0109_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -33965,7 +33965,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:09.678003Z",
+"2021-05-18T13:15:27.410719Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0109_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -34041,7 +34041,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:10.015883Z",
+"2021-05-18T13:15:27.836094Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0110_ce-yo_down-16_LSFM.json",
 "size":
@@ -34117,7 +34117,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:10.872538Z",
+"2021-05-18T13:15:27.844114Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0110_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -34193,7 +34193,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:11.115541Z",
+"2021-05-18T13:15:27.419085Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0111_ce-lectin_down-16_LSFM.json",
 "size":
@@ -34269,7 +34269,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:11.535232Z",
+"2021-05-18T13:15:27.431447Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0110_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -34345,7 +34345,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:11.617730Z",
+"2021-05-18T13:15:27.445502Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0111_ce-yo_down-16_LSFM.json",
 "size":
@@ -34421,7 +34421,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:12.196511Z",
+"2021-05-18T13:15:27.852583Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0111_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -34497,7 +34497,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:12.314097Z",
+"2021-05-18T13:15:27.859903Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0112_ce-lectin_down-16_LSFM.json",
 "size":
@@ -34573,7 +34573,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:13.017870Z",
+"2021-05-18T13:15:27.454329Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0111_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -34649,7 +34649,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:13.102180Z",
+"2021-05-18T13:15:27.880419Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0112_ce-yo_down-16_LSFM.json",
 "size":
@@ -34725,7 +34725,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:13.832401Z",
+"2021-05-18T13:15:27.462289Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0113_ce-lectin_down-16_LSFM.json",
 "size":
@@ -34801,7 +34801,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:14.045616Z",
+"2021-05-18T13:15:27.904664Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0112_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -34877,7 +34877,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:14.401045Z",
+"2021-05-18T13:15:27.915814Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0112_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -34953,7 +34953,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:14.552174Z",
+"2021-05-18T13:15:27.935530Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0113_ce-yo_down-16_LSFM.json",
 "size":
@@ -35029,7 +35029,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:15.371137Z",
+"2021-05-18T13:15:27.945408Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0114_ce-lectin_down-16_LSFM.json",
 "size":
@@ -35105,7 +35105,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:15.476370Z",
+"2021-05-18T13:15:27.957531Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0113_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -35181,7 +35181,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:15.945425Z",
+"2021-05-18T13:15:27.470243Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0114_ce-yo_down-16_LSFM.json",
 "size":
@@ -35257,7 +35257,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:16.022692Z",
+"2021-05-18T13:15:27.973794Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0113_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -35333,7 +35333,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:16.774732Z",
+"2021-05-18T13:15:27.479829Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0114_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -35409,7 +35409,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:17.060072Z",
+"2021-05-18T13:15:27.984250Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0115_ce-lectin_down-16_LSFM.json",
 "size":
@@ -35485,7 +35485,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:17.408123Z",
+"2021-05-18T13:15:27.487079Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0115_ce-yo_down-16_LSFM.json",
 "size":
@@ -35561,7 +35561,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:17.572767Z",
+"2021-05-18T13:15:27.991824Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0114_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -35637,7 +35637,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:18.106108Z",
+"2021-05-18T13:15:27.999938Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0115_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -35713,7 +35713,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:18.461171Z",
+"2021-05-18T13:15:28.009214Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0116_ce-lectin_down-16_LSFM.json",
 "size":
@@ -35789,7 +35789,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:19.177681Z",
+"2021-05-18T13:15:27.506362Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0116_ce-yo_down-16_LSFM.json",
 "size":
@@ -35865,7 +35865,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:19.222345Z",
+"2021-05-18T13:15:28.017279Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0115_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -35941,7 +35941,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:19.648135Z",
+"2021-05-18T13:15:27.513753Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0117_ce-lectin_down-16_LSFM.json",
 "size":
@@ -36017,7 +36017,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:19.867857Z",
+"2021-05-18T13:15:27.522881Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0116_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -36093,7 +36093,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:20.098567Z",
+"2021-05-18T13:15:27.530806Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0116_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -36169,7 +36169,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:20.411630Z",
+"2021-05-18T13:15:28.025142Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0117_ce-yo_down-16_LSFM.json",
 "size":
@@ -36245,7 +36245,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:21.434116Z",
+"2021-05-18T13:15:27.541050Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0117_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -36321,7 +36321,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:21.685844Z",
+"2021-05-18T13:15:27.549801Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0118_ce-lectin_down-16_LSFM.json",
 "size":
@@ -36397,7 +36397,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:21.853698Z",
+"2021-05-18T13:15:27.558907Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0118_ce-yo_down-16_LSFM.json",
 "size":
@@ -36473,7 +36473,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:22.357706Z",
+"2021-05-18T13:15:27.568947Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0117_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -36549,7 +36549,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:22.865587Z",
+"2021-05-18T13:15:28.033664Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0118_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -36625,7 +36625,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:22.997180Z",
+"2021-05-18T13:15:27.578399Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0119_ce-lectin_down-16_LSFM.json",
 "size":
@@ -36701,7 +36701,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:23.566624Z",
+"2021-05-18T13:15:28.044886Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0119_ce-yo_down-16_LSFM.json",
 "size":
@@ -36777,7 +36777,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:23.639565Z",
+"2021-05-18T13:15:27.586336Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0118_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -36853,7 +36853,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:24.257671Z",
+"2021-05-18T13:15:28.054692Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0120_ce-lectin_down-16_LSFM.json",
 "size":
@@ -36929,7 +36929,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:24.531161Z",
+"2021-05-18T13:15:28.063642Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0119_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -37005,7 +37005,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:25.212131Z",
+"2021-05-18T13:15:28.105799Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0120_ce-yo_down-16_LSFM.json",
 "size":
@@ -37081,7 +37081,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:25.431078Z",
+"2021-05-18T13:15:28.115384Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0119_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -37157,7 +37157,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:26.082796Z",
+"2021-05-18T13:15:28.546049Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0121_ce-lectin_down-16_LSFM.json",
 "size":
@@ -37233,7 +37233,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:26.307409Z",
+"2021-05-18T13:15:28.130255Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0120_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -37309,7 +37309,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:26.646760Z",
+"2021-05-18T13:15:28.553495Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0120_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -37385,7 +37385,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:26.834502Z",
+"2021-05-18T13:15:28.137588Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0121_ce-yo_down-16_LSFM.json",
 "size":
@@ -37461,7 +37461,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:27.297120Z",
+"2021-05-18T13:15:28.153635Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0121_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -37537,7 +37537,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:27.842443Z",
+"2021-05-18T13:15:28.591803Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0122_ce-lectin_down-16_LSFM.json",
 "size":
@@ -37613,7 +37613,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:28.160284Z",
+"2021-05-18T13:15:28.162242Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0121_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -37689,7 +37689,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:28.245337Z",
+"2021-05-18T13:15:28.171766Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0122_ce-yo_down-16_LSFM.json",
 "size":
@@ -37765,7 +37765,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:29.033398Z",
+"2021-05-18T13:15:28.602781Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0122_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -37841,7 +37841,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:29.536854Z",
+"2021-05-18T13:15:28.614099Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0123_ce-lectin_down-16_LSFM.json",
 "size":
@@ -37917,7 +37917,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:29.719911Z",
+"2021-05-18T13:15:28.625405Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0122_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -37993,7 +37993,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:29.949878Z",
+"2021-05-18T13:15:28.637534Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0123_ce-yo_down-16_LSFM.json",
 "size":
@@ -38069,7 +38069,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:30.755206Z",
+"2021-05-18T13:15:28.655103Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0123_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -38145,7 +38145,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:30.847428Z",
+"2021-05-18T13:15:28.181230Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0124_ce-lectin_down-16_LSFM.json",
 "size":
@@ -38221,7 +38221,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:31.670814Z",
+"2021-05-18T13:15:28.194947Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0123_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -38297,7 +38297,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:31.875456Z",
+"2021-05-18T13:15:28.669454Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0124_ce-yo_down-16_LSFM.json",
 "size":
@@ -38373,7 +38373,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:31.972250Z",
+"2021-05-18T13:15:28.206716Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0124_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -38449,7 +38449,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:32.102081Z",
+"2021-05-18T13:15:28.678534Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0125_ce-lectin_down-16_LSFM.json",
 "size":
@@ -38525,7 +38525,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:32.895369Z",
+"2021-05-18T13:15:28.215335Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0124_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -38601,7 +38601,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:33.189354Z",
+"2021-05-18T13:15:28.227803Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0125_ce-yo_down-16_LSFM.json",
 "size":
@@ -38677,7 +38677,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:33.553153Z",
+"2021-05-18T13:15:28.235940Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0126_ce-lectin_down-16_LSFM.json",
 "size":
@@ -38753,7 +38753,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:34.447563Z",
+"2021-05-18T13:15:28.245237Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0126_ce-yo_down-16_LSFM.json",
 "size":
@@ -38829,7 +38829,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:34.658615Z",
+"2021-05-18T13:15:28.690056Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0125_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -38905,7 +38905,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:34.701485Z",
+"2021-05-18T13:15:28.254154Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0125_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -38981,7 +38981,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:35.679437Z",
+"2021-05-18T13:15:28.704398Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0127_ce-lectin_down-16_LSFM.json",
 "size":
@@ -39057,7 +39057,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:35.847324Z",
+"2021-05-18T13:15:28.262472Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0126_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -39133,7 +39133,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:36.071695Z",
+"2021-05-18T13:15:28.270765Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0127_ce-yo_down-16_LSFM.json",
 "size":
@@ -39209,7 +39209,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:37.354229Z",
+"2021-05-18T13:15:28.730257Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0127_ce-yo_down-16_LSFM.tiff",
 "size":
@@ -39285,7 +39285,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:37.389262Z",
+"2021-05-18T13:15:28.279295Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0127_ce-lectin_down-16_LSFM.tiff",
 "size":
@@ -39361,7 +39361,7 @@
 ]
 },
 "modified":
-"2021-04-21T17:14:42.172394Z",
+"2021-05-18T13:15:28.740322Z",
 "path":
 "dataset/sub-MGH_19-1_021520/microscopy/sub-MGH_19-1_021520_sample-pons8_run-0126_ce-lectin_down-16_LSFM.tiff",
 "size":
