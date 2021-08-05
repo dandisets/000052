@@ -22,7 +22,8 @@ description: A test upload of Pons8 YO and Lectin, downsampled 16x using the BID
   schema
 id: DANDI:000052/draft
 identifier: DANDI:000052
-manifestLocation: []
+manifestLocation:
+- https://api.dandiarchive.org/api/dandisets/000052/versions/draft/assets/
 name: Pons8-BIDS-16xdownsampled
 repository: https://dandiarchive.org/
 schemaKey: Dandiset
