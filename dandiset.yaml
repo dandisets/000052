@@ -14,10 +14,12 @@ assetsSummary:
   measurementTechnique: []
   numberOfBytes: 226804820
   numberOfFiles: 518
+  numberOfSamples: 1
+  numberOfSubjects: 1
   schemaKey: AssetsSummary
   species: []
   variableMeasured: []
-citation: Pons8-BIDS-16xdownsampled (2021). (Version draft) [Data set]. DANDI archive.
+citation: Pons8-BIDS-16xdownsampled (2022). (Version draft) [Data set]. DANDI archive.
   https://dandiarchive.org/dandiset/000052/draft
 dateCreated: '2020-12-22T16:17:31.715000+00:00'
 description: A test upload of Pons8 YO and Lectin, downsampled 16x using the BIDS
