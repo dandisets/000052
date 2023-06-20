@@ -38,7 +38,7 @@
 "b010e05284c9e5e11d8c16388b862109e27ec4ca90e5e91cc23ce161dc7f3a47"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:1d2b4a6a-7a55-4a86-8295-98e87bcd16fc",
 "identifier":
@@ -126,7 +126,7 @@
 "2e744ca6cf8cba0859db68c8bcf54783a5928a88d32501d67dd473b1267c8168"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:4d28abf3-2276-4924-9cbe-36968ffeaa8d",
 "identifier":
@@ -390,7 +390,7 @@
 "0c390f537a4714e81125e141dc08e0ba82f40fe331acb75983ce00bddf239afb"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:09df2ebc-ca1e-4cff-89df-3e653bcfc782",
 "identifier":
@@ -566,7 +566,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:46006535-59e4-49d1-88ee-fcf33da6cf7d",
 "identifier":
@@ -742,7 +742,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:7b9d54a8-916b-4811-8648-0637ae0c20f6",
 "identifier":
@@ -918,7 +918,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:ef118c76-0f59-4d10-81da-064d080089e5",
 "identifier":
@@ -1094,7 +1094,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:394c874e-59a3-4579-ba4a-4e5f447c248d",
 "identifier":
@@ -1270,7 +1270,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:5c003f6f-85f1-47d2-a78e-cd6a096e6de0",
 "identifier":
@@ -1446,7 +1446,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:aee96745-512c-4567-a1c8-edbf7c54ff29",
 "identifier":
@@ -1622,7 +1622,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:187304ba-67cd-4a3e-bfc5-b3bd989b9622",
 "identifier":
@@ -1798,7 +1798,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:cb5dae8f-3637-4d53-93e3-bc9668ba1e88",
 "identifier":
@@ -1974,7 +1974,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:4f66b5bb-3b66-4fba-963d-48cd51eb5468",
 "identifier":
@@ -2150,7 +2150,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:e4cf234c-6e22-4a27-a026-c042a96b5a5c",
 "identifier":
@@ -2326,7 +2326,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:cf0e7d9d-4457-47e7-bad9-f8b6569e0d9c",
 "identifier":
@@ -2502,7 +2502,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:e5084472-43e0-4531-95ee-03759a6514e0",
 "identifier":
@@ -2678,7 +2678,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:53ea5b03-b9f9-4b40-9b38-6b2b1ee4d530",
 "identifier":
@@ -2854,7 +2854,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:45fed37d-f9da-4da8-b166-2086ceffba7b",
 "identifier":
@@ -3030,7 +3030,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:a0f1ed68-0c2e-4644-a03d-54a631ef3495",
 "identifier":
@@ -3206,7 +3206,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:c082fc32-9e75-41d3-9d71-32db93f54907",
 "identifier":
@@ -3382,7 +3382,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:0794a3af-1fec-49eb-8e28-cc58719139e8",
 "identifier":
@@ -3558,7 +3558,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:8a80f585-e5d6-4413-a9cc-f4db99c324ac",
 "identifier":
@@ -3734,7 +3734,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:ee5ee33d-9039-4eac-8e03-dbfa459dd4b9",
 "identifier":
@@ -3910,7 +3910,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:8fdf39d7-72ab-4a05-ab9a-f114bad0b627",
 "identifier":
@@ -4086,7 +4086,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:5cefa7b2-7c40-4bf5-9564-d10a016d4ea5",
 "identifier":
@@ -4262,7 +4262,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:b5369e9f-002c-4bf1-adf9-e08435b4f868",
 "identifier":
@@ -4438,7 +4438,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:d11f204f-c952-472a-b5a8-a2c1f0ad7cd7",
 "identifier":
@@ -4614,7 +4614,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:f1c1cb0f-d10e-4a62-a630-e1ce041f28af",
 "identifier":
@@ -4790,7 +4790,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:9c178a1e-ce4d-4b41-86a6-163d3ac1bb10",
 "identifier":
@@ -4966,7 +4966,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:a8adec3a-d576-4a16-83d7-561dd965a317",
 "identifier":
@@ -5142,7 +5142,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:dd1880da-bbfb-4d20-a300-8c4144a30c3b",
 "identifier":
@@ -5318,7 +5318,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:ec8eec3d-6b0a-43e6-81af-a6b46cf08481",
 "identifier":
@@ -5494,7 +5494,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:95a3d8b0-5288-4db0-8f86-f0c1d9bd5cc1",
 "identifier":
@@ -5670,7 +5670,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:e1af3215-2a5a-4741-b0d7-f67568238ca2",
 "identifier":
@@ -5846,7 +5846,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:fd740d65-b87f-4f74-8b6f-bbde18ee99a8",
 "identifier":
@@ -6022,7 +6022,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:bdb5b46c-d512-494b-954f-f2c3304d3eb0",
 "identifier":
@@ -6198,7 +6198,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:d68a1d43-ac90-4bf6-b540-bf08d7e92430",
 "identifier":
@@ -6374,7 +6374,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:1f6b45f5-4bbb-4a70-9383-7d8a4eed6761",
 "identifier":
@@ -6550,7 +6550,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:428db2bd-cde3-4e79-bb29-dd110149e7ad",
 "identifier":
@@ -6726,7 +6726,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:ccbac65f-00b0-405b-8d22-c1d4c985d1d0",
 "identifier":
@@ -6902,7 +6902,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:66772ecb-8dc6-4f86-82c5-0b957334d7dc",
 "identifier":
@@ -7078,7 +7078,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:cee1c792-55be-408a-a737-7bbb5fcc0038",
 "identifier":
@@ -7254,7 +7254,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:d66aa052-cc6d-428f-bcf9-a209f9e39f4a",
 "identifier":
@@ -7430,7 +7430,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:5d1c3a24-470d-4f22-bbfb-27be23c5dc05",
 "identifier":
@@ -7606,7 +7606,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:874ef19b-245a-4054-b90f-f375ffdaa8b5",
 "identifier":
@@ -7782,7 +7782,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:0ecc5597-2a1a-4f51-bb16-e55178e4bb46",
 "identifier":
@@ -7958,7 +7958,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:17aec81f-614d-404c-8da4-0f08c2df2b93",
 "identifier":
@@ -8134,7 +8134,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:0b1a9852-2a59-4a3a-8dd9-ba382f6af57e",
 "identifier":
@@ -8310,7 +8310,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:6a75db3f-abee-4e10-8ee1-576e40e1b6d1",
 "identifier":
@@ -8486,7 +8486,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:35289b7f-da0b-477b-b4ac-e8ab7916a7f1",
 "identifier":
@@ -8662,7 +8662,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:67a1b6f8-aab9-4efb-a60b-401d953878c4",
 "identifier":
@@ -8838,7 +8838,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:4773ea77-1549-4666-9342-6b3417b06b4c",
 "identifier":
@@ -9014,7 +9014,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:06d1d76c-9346-4e69-a471-71a00b21cf41",
 "identifier":
@@ -9190,7 +9190,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:f76eb812-1621-4d63-b780-09a71db35cec",
 "identifier":
@@ -9366,7 +9366,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:4ca07174-c9a3-48f3-a138-25b147b8e810",
 "identifier":
@@ -9542,7 +9542,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:573fa361-d7a1-48b2-9f54-709c02a920ac",
 "identifier":
@@ -9718,7 +9718,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:1b848d40-0b6d-4718-aa23-c41851b617fe",
 "identifier":
@@ -9894,7 +9894,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:b48c1946-2758-4fde-ad77-1f1b6ccc6952",
 "identifier":
@@ -10070,7 +10070,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:0bfe2363-e27c-463a-8497-3670e572ad01",
 "identifier":
@@ -10246,7 +10246,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:653377db-82ac-4474-a828-8414060109ae",
 "identifier":
@@ -10422,7 +10422,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:2f4b5bba-ac2f-43ef-8d05-eac713b409a1",
 "identifier":
@@ -10598,7 +10598,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:2863c62b-fa2c-46ec-b525-7fbf46969776",
 "identifier":
@@ -10774,7 +10774,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:4fdb75e6-5e83-480e-ad05-1fdb6d7bd358",
 "identifier":
@@ -10950,7 +10950,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:5de00f8b-8ed7-440b-9814-fb8e90f9ea08",
 "identifier":
@@ -11126,7 +11126,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:6ab9af12-7094-450d-b8d3-a91d45acc993",
 "identifier":
@@ -11302,7 +11302,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:d5c8f73f-d68c-4b1e-a265-9e8d233f6f6c",
 "identifier":
@@ -11478,7 +11478,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:8dd4d095-85c2-4e93-86f3-9d02156be52d",
 "identifier":
@@ -11654,7 +11654,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:377d0c80-ee6e-46f2-9b8f-b9a602e7c88a",
 "identifier":
@@ -11830,7 +11830,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:7db45b66-450e-4564-942b-14ecba8988e7",
 "identifier":
@@ -12006,7 +12006,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:18187dcf-c39f-4f88-8da3-66c6d1144ff8",
 "identifier":
@@ -12182,7 +12182,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:0bc9dce1-9617-4ba9-8f2d-e1ef8cf2242c",
 "identifier":
@@ -12358,7 +12358,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:1387550b-0b31-4a8a-bdb3-fb6534e89270",
 "identifier":
@@ -12534,7 +12534,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:454edcc6-70fb-4898-8833-9d6d1b231506",
 "identifier":
@@ -12710,7 +12710,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:922bf3c6-f143-4a20-acde-b15527efaf0a",
 "identifier":
@@ -12886,7 +12886,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:42bdc78b-9da6-472f-aa64-b5c4159d4408",
 "identifier":
@@ -13062,7 +13062,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:a5c66022-2264-4ee1-be20-4a37df17030b",
 "identifier":
@@ -13238,7 +13238,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:e2cf7e94-baf8-4c3b-9a14-33781791b608",
 "identifier":
@@ -13414,7 +13414,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:b9739785-124e-4f48-973d-a3be7369adcd",
 "identifier":
@@ -13590,7 +13590,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:23eb9b87-8791-4e96-bd65-7b302a3ee8de",
 "identifier":
@@ -13766,7 +13766,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:526e8bd0-f624-4037-9629-899cb32367b7",
 "identifier":
@@ -13942,7 +13942,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:c3ca4ab3-2302-403d-9b9f-48eaac18c047",
 "identifier":
@@ -14118,7 +14118,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:106f8379-bf37-416e-ba20-738e1031acfd",
 "identifier":
@@ -14294,7 +14294,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:13c17fd5-8764-4591-84d8-7aa05c7df533",
 "identifier":
@@ -14470,7 +14470,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:62fd5d80-a4d1-477a-85be-530134205a70",
 "identifier":
@@ -14646,7 +14646,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:ab7d038c-4dc7-46cc-8df5-2e77810565da",
 "identifier":
@@ -14822,7 +14822,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:a5fad9a8-d8da-437e-a98f-6668ac047bfc",
 "identifier":
@@ -14998,7 +14998,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:c3149374-818b-4a4d-82a2-e90376a1eb30",
 "identifier":
@@ -15174,7 +15174,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:48eb72b5-d525-4b9d-a47e-80112690beca",
 "identifier":
@@ -15350,7 +15350,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:50761b36-595a-4f4e-84df-23e629a7b30d",
 "identifier":
@@ -15526,7 +15526,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:09e7e61e-3b18-4c5a-952b-2dcc92199dd3",
 "identifier":
@@ -15702,7 +15702,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:f4f6f53e-1cc4-4657-a248-5e44575f5b9a",
 "identifier":
@@ -15878,7 +15878,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:8b410650-6dfd-41c6-a125-c243384f2cba",
 "identifier":
@@ -16054,7 +16054,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:8f14f931-68bd-4c83-9f35-dadeac101065",
 "identifier":
@@ -16230,7 +16230,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:22ed0ad7-bb7a-46fb-9f13-7011640070c0",
 "identifier":
@@ -16406,7 +16406,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:ee1d59ed-db26-4dac-9457-7f7a5a35693b",
 "identifier":
@@ -16582,7 +16582,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:e20023e4-803a-4c02-a0bf-1c5f4a8ce2a7",
 "identifier":
@@ -16758,7 +16758,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:302bf8c4-9048-4ab0-832a-06185db6f69f",
 "identifier":
@@ -16934,7 +16934,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:3da7381f-c4bc-460e-8743-ba3ec7765de6",
 "identifier":
@@ -17110,7 +17110,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:6a338372-a981-47d8-b0cb-0acd827ac5ff",
 "identifier":
@@ -17286,7 +17286,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:4ed1df53-ac02-416f-809c-6b6f94e98f89",
 "identifier":
@@ -17462,7 +17462,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:551d9bca-e843-42dd-b13d-3b51223fd21a",
 "identifier":
@@ -17638,7 +17638,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:a5b12802-3719-4d1c-9d72-f4a91354480a",
 "identifier":
@@ -17814,7 +17814,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:7917d8cd-7ea6-498c-953f-0791129f515a",
 "identifier":
@@ -17990,7 +17990,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:8b26f58f-74ca-436b-a117-1cbcc6cc7fd0",
 "identifier":
@@ -18166,7 +18166,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:cfd9566d-86bc-456a-8749-517e39efaede",
 "identifier":
@@ -18342,7 +18342,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:42a532f6-49d0-4c2e-9335-2943e4163eeb",
 "identifier":
@@ -18518,7 +18518,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:8f78aa91-8574-4d25-a6db-7f90640f7f4c",
 "identifier":
@@ -18694,7 +18694,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:50a22ff8-7394-4f22-b14d-cdb9c26e20b8",
 "identifier":
@@ -18870,7 +18870,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:7e80ab95-6368-4378-9a80-b92db239d6a8",
 "identifier":
@@ -19046,7 +19046,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:6c363110-3988-4ca3-bfc9-7a32510a48c1",
 "identifier":
@@ -19222,7 +19222,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:08a7f95e-05ba-4c78-9cea-eec4b907472e",
 "identifier":
@@ -19398,7 +19398,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:4e0c38da-4ff2-4c35-ba38-47d5626bed47",
 "identifier":
@@ -19574,7 +19574,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:3d613ec5-98ba-4570-9365-fd192d28d968",
 "identifier":
@@ -19750,7 +19750,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:a2627224-01dd-40a2-aa9d-44fe4257fada",
 "identifier":
@@ -19926,7 +19926,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:f94bb76b-68f5-4ba7-8ad3-4df1cf6d05c9",
 "identifier":
@@ -20102,7 +20102,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:c2a8eae7-f229-4fb0-a1a8-3403bf21d498",
 "identifier":
@@ -20278,7 +20278,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:f8019a9a-d574-430f-ba87-a0fa0090e904",
 "identifier":
@@ -20454,7 +20454,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:269ce990-2150-415e-9ab7-0fe8b92f2aca",
 "identifier":
@@ -20630,7 +20630,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:f3dd71d3-90aa-4d5e-b6ab-320d11f6fd99",
 "identifier":
@@ -20806,7 +20806,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:a0fd37df-8788-42f8-9965-6e477025e124",
 "identifier":
@@ -20982,7 +20982,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:50c295a7-aa33-4198-b6f3-2564499b09b7",
 "identifier":
@@ -21158,7 +21158,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:90bb3510-9636-4ab2-94ce-63c5ce4c9556",
 "identifier":
@@ -21334,7 +21334,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:966d90c7-c2c0-4744-be6e-ca7cee64b713",
 "identifier":
@@ -21510,7 +21510,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:eb8d4cf3-d253-4276-ba27-681defaa85fe",
 "identifier":
@@ -21686,7 +21686,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:e5ff2533-2aa8-4996-9db9-8fc49282ced0",
 "identifier":
@@ -21862,7 +21862,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:5f92a6e3-36c7-421d-a8a4-6ce93ee7dc0f",
 "identifier":
@@ -22038,7 +22038,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:c4b7829a-b1f1-477d-a9bc-7f3bb5271af0",
 "identifier":
@@ -22214,7 +22214,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:f30ba3e7-c02b-4044-8071-4fec0384e38c",
 "identifier":
@@ -22390,7 +22390,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:710f06f1-3ebf-4b86-9c46-49e66d899af1",
 "identifier":
@@ -22566,7 +22566,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:406703a5-cc54-47c0-8d4a-037039a56d96",
 "identifier":
@@ -22742,7 +22742,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:c73a9fe9-085e-49ec-9c93-a1e27b107ea1",
 "identifier":
@@ -22918,7 +22918,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:9e026d5d-2bfa-4aad-90e9-9574d86cc8d7",
 "identifier":
@@ -23094,7 +23094,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:a680a9d5-5e9a-4094-8a4c-32f1f67f0dd7",
 "identifier":
@@ -23270,7 +23270,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:6a7dca30-3111-4be0-901f-d14aa3c0ee61",
 "identifier":
@@ -23446,7 +23446,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:6c2ca022-669c-4382-9351-39bc5d29ac97",
 "identifier":
@@ -23622,7 +23622,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:32369ab5-6d2e-4018-8c50-683ea26f6bb9",
 "identifier":
@@ -23798,7 +23798,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:74ca311b-2063-4802-8a1a-af1b989782d8",
 "identifier":
@@ -23974,7 +23974,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:1c9d2af7-785d-44e6-8c1c-5a659bc1298c",
 "identifier":
@@ -24150,7 +24150,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:7bf3eb85-bc6d-46ab-af35-afaf5c076005",
 "identifier":
@@ -24326,7 +24326,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:fe152144-5a59-4bff-8e83-b8a07b356146",
 "identifier":
@@ -24502,7 +24502,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:bae10a78-99e5-4532-9990-8119405d7b71",
 "identifier":
@@ -24678,7 +24678,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:e28df864-a2cd-4af4-8b1d-6ffd1a646492",
 "identifier":
@@ -24854,7 +24854,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:e6c7f556-a208-4673-9d85-aea7ca74452b",
 "identifier":
@@ -25030,7 +25030,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:c5eb4aa8-d1b4-4eac-b9c5-ef131cef77ff",
 "identifier":
@@ -25206,7 +25206,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:6d5797d0-eb45-4550-a147-b215e4fbce92",
 "identifier":
@@ -25382,7 +25382,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:227ca8ef-33ff-4be0-9e15-0e7d0a24f927",
 "identifier":
@@ -25558,7 +25558,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:a2340a23-44e8-4547-8a9d-8fa7e8d102f4",
 "identifier":
@@ -25734,7 +25734,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:52aecf26-a3d9-4e58-9e2b-645dcd3e582e",
 "identifier":
@@ -25910,7 +25910,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:1011764f-b630-4b24-8915-1391298d234d",
 "identifier":
@@ -26086,7 +26086,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:459d20b4-3dd7-45c7-bf94-e404c0774785",
 "identifier":
@@ -26262,7 +26262,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:fe67a35d-848c-4fef-90c8-17f9d22f21a4",
 "identifier":
@@ -26438,7 +26438,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:e91cb397-09fb-4483-8353-ae2e71b1e6ca",
 "identifier":
@@ -26614,7 +26614,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:f102e780-4bf3-4fd0-a855-994a2ccb6d22",
 "identifier":
@@ -26790,7 +26790,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:8630e94f-32a2-4117-9165-26487a4cfbd1",
 "identifier":
@@ -26966,7 +26966,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:f79a00ac-68c2-41d7-95dd-bf17fbeb612a",
 "identifier":
@@ -27142,7 +27142,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:565e57c4-49c9-4436-a602-3cb06bb390d2",
 "identifier":
@@ -27318,7 +27318,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:32abd21a-cc37-4bad-877e-13c3b23a1a60",
 "identifier":
@@ -27494,7 +27494,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:21f9bf68-e169-42e8-8b17-9bb9e3a96d97",
 "identifier":
@@ -27670,7 +27670,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:5c39f4b0-d80e-49ac-aea3-3a0f9e6f7c84",
 "identifier":
@@ -27846,7 +27846,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:4a6bc0f9-9746-4fae-af31-d79f33ddc6f3",
 "identifier":
@@ -28022,7 +28022,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:743705d2-6900-449d-98b5-74352f4acf7a",
 "identifier":
@@ -28198,7 +28198,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:d903de9c-055c-4539-93db-f70f206d0eaf",
 "identifier":
@@ -28374,7 +28374,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:d67b885c-3e0f-409e-a317-217d1debf191",
 "identifier":
@@ -28550,7 +28550,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:8942e7b2-9ff7-4db4-be9b-28e39e45e4f6",
 "identifier":
@@ -28726,7 +28726,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:2f1f4a59-74d7-4766-8973-33be744cda2d",
 "identifier":
@@ -28902,7 +28902,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:1fc79e1d-7177-4616-add6-12733c1ddff4",
 "identifier":
@@ -29078,7 +29078,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:3b892b41-17f7-44ad-8842-508244e7dfad",
 "identifier":
@@ -29254,7 +29254,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:665f175d-daa1-4716-be1a-b976725db004",
 "identifier":
@@ -29430,7 +29430,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:86d71de9-1f89-44b6-b833-b7653c04917e",
 "identifier":
@@ -29606,7 +29606,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:a5a8ec98-d8ba-4f98-8a95-b2cedc5ae749",
 "identifier":
@@ -29782,7 +29782,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:3139642a-6d5d-4538-be6c-cfee2d17ebcd",
 "identifier":
@@ -29958,7 +29958,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:d946b3d6-36a0-4704-9440-d254ea125e2a",
 "identifier":
@@ -30134,7 +30134,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:c0667964-c380-4a96-bd86-1368606b856b",
 "identifier":
@@ -30310,7 +30310,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:5fa48ed2-28ec-48a7-a9cc-63d21e6f719e",
 "identifier":
@@ -30486,7 +30486,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:b770f9be-cbe3-4f67-ad38-4a867fe22c36",
 "identifier":
@@ -30662,7 +30662,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:91199070-a6d9-4538-9865-577019bc98d8",
 "identifier":
@@ -30838,7 +30838,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:3505dcf5-f0db-4e73-9b54-bd042aa650f5",
 "identifier":
@@ -31014,7 +31014,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:a9d1831f-cbe0-4271-9b9e-d24e93b36835",
 "identifier":
@@ -31190,7 +31190,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:828c258a-4da7-40ca-86c5-8d22fdef322a",
 "identifier":
@@ -31366,7 +31366,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:44e0e466-6ea4-421a-b4b4-e6d455d5f4f0",
 "identifier":
@@ -31542,7 +31542,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:7e4f2b86-8b15-4494-920d-19b49105d548",
 "identifier":
@@ -31718,7 +31718,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:87bdc697-1e8f-4a39-b454-28cf5b44c104",
 "identifier":
@@ -31894,7 +31894,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:ae43e7ad-2138-4b56-89e7-e33712bfa82d",
 "identifier":
@@ -32070,7 +32070,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:77433807-05ae-4076-9ec5-2e0b733342b2",
 "identifier":
@@ -32246,7 +32246,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:b60d2db4-e32e-4390-890f-cf2211db5643",
 "identifier":
@@ -32422,7 +32422,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:d9899a9e-3a19-4536-9e04-5bdb93e948f6",
 "identifier":
@@ -32598,7 +32598,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:a106ded2-25b1-47cb-9ff5-951091f6506f",
 "identifier":
@@ -32774,7 +32774,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:a3f0ed70-c64c-4fe2-913b-dbcc98425755",
 "identifier":
@@ -32950,7 +32950,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:b642c772-d41a-4d6c-bb71-a1fd4bbb6be8",
 "identifier":
@@ -33126,7 +33126,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:9efcf1da-0188-432e-825f-5568e8971a66",
 "identifier":
@@ -33302,7 +33302,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:d410e0dc-c246-4b4d-a180-d02cce99ea55",
 "identifier":
@@ -33478,7 +33478,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:8af71134-defb-46a0-8c2d-05fcb20bb782",
 "identifier":
@@ -33654,7 +33654,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:ff4f72c6-0da3-49d9-8634-3002e926dc97",
 "identifier":
@@ -33830,7 +33830,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:f717eca7-c328-41e9-b84a-a883c7044f08",
 "identifier":
@@ -34006,7 +34006,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:0f1c8a1d-750e-4dc6-96cf-805235fd843c",
 "identifier":
@@ -34182,7 +34182,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:6029716b-a770-417c-b860-89458cf988fc",
 "identifier":
@@ -34358,7 +34358,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:cc6fae2b-b7cc-457a-87c3-7c6b49cd0bec",
 "identifier":
@@ -34534,7 +34534,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:44901431-f934-4877-ac43-3931a220f4a4",
 "identifier":
@@ -34710,7 +34710,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:b0c0ad4e-6e35-444b-a567-bbd3c6574764",
 "identifier":
@@ -34886,7 +34886,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:9120e74c-74e4-4f51-a40e-a56accddffb3",
 "identifier":
@@ -35062,7 +35062,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:cc47ff4c-54f9-47cb-b058-071303fc63bc",
 "identifier":
@@ -35238,7 +35238,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:1ae1cd01-cbe5-420e-9a9d-0dd2f0e114ba",
 "identifier":
@@ -35414,7 +35414,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:d87fe8f0-74d8-4754-954b-8a6b4288f9fe",
 "identifier":
@@ -35590,7 +35590,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:cb70d678-5b5f-4c3d-aced-c8b317609425",
 "identifier":
@@ -35766,7 +35766,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:58cac2b6-9e9e-49d9-a171-bbeabfd16aea",
 "identifier":
@@ -35942,7 +35942,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:99fe658d-76d5-404c-8d99-ab17eaac83d2",
 "identifier":
@@ -36118,7 +36118,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:19a82cb6-e412-4301-b7e0-f9308d2ab113",
 "identifier":
@@ -36294,7 +36294,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:13342b96-a9b8-4ae5-a8e8-a1a13e92e028",
 "identifier":
@@ -36470,7 +36470,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:224fa8ea-a3b9-4cf9-81de-d42c4cf58d86",
 "identifier":
@@ -36646,7 +36646,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:de5b033f-0543-4478-a66d-80a456532fa7",
 "identifier":
@@ -36822,7 +36822,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:96908143-4cbd-4ef8-b016-5f85f655e078",
 "identifier":
@@ -36998,7 +36998,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:97038170-ad1e-4956-a3f0-0d79e23c291e",
 "identifier":
@@ -37174,7 +37174,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:f9b4addb-96ab-43c5-b6e0-2856ea187a4b",
 "identifier":
@@ -37350,7 +37350,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:1410aaae-31aa-42f4-9817-675bcd0d423a",
 "identifier":
@@ -37526,7 +37526,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:41d791ed-686f-4b31-8521-72df251c35ba",
 "identifier":
@@ -37702,7 +37702,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:4e9a1504-5587-4b31-bd64-649a281f9e19",
 "identifier":
@@ -37878,7 +37878,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:db63dedf-c92e-4d1e-8dae-7ee03073e3f0",
 "identifier":
@@ -38054,7 +38054,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:4796af22-b2e3-44a8-8a2c-8345ecb3d21e",
 "identifier":
@@ -38230,7 +38230,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:0a6729ee-89ea-469f-b7df-9e1f8ae3e7c0",
 "identifier":
@@ -38406,7 +38406,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:71a8bb3c-c458-4307-8e30-0692adb6bc7d",
 "identifier":
@@ -38582,7 +38582,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:1521c143-ac00-4b19-8c82-971cd7ef10f3",
 "identifier":
@@ -38758,7 +38758,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:a04edf95-8df2-4072-81fb-7f34c2a35f3c",
 "identifier":
@@ -38934,7 +38934,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:e5dd9b9b-ce54-4d0e-88df-246190efcd4d",
 "identifier":
@@ -39110,7 +39110,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:f0de3048-8ddb-4270-abcc-a4a7978d69ca",
 "identifier":
@@ -39286,7 +39286,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:1280c007-12e7-47ae-9d38-c91ca2936846",
 "identifier":
@@ -39462,7 +39462,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:ef88d159-d37c-4662-89fe-b93ca03e4485",
 "identifier":
@@ -39638,7 +39638,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:f8f91173-0469-4607-8119-254bedf8a0a0",
 "identifier":
@@ -39814,7 +39814,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:3f854bcf-8855-49f5-a071-d3faaea2b74a",
 "identifier":
@@ -39990,7 +39990,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:e09979e4-f5bc-48f2-8445-281304b49198",
 "identifier":
@@ -40166,7 +40166,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:4c19978f-8aa3-4301-9288-50066ffc8b36",
 "identifier":
@@ -40342,7 +40342,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:c6a2b07e-986c-4893-a9e7-703bada4c2f4",
 "identifier":
@@ -40518,7 +40518,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:8eeb64aa-a349-4497-917d-5dc90bff6ffc",
 "identifier":
@@ -40694,7 +40694,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:4f6aeb71-323d-4fef-bffd-7befd4da6e21",
 "identifier":
@@ -40870,7 +40870,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:9a236df7-a3de-40d2-b127-84bc59e2cb14",
 "identifier":
@@ -41046,7 +41046,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:dc71ce3d-9bf8-409f-a4ba-30604ad8bc7e",
 "identifier":
@@ -41222,7 +41222,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:a018beae-101b-4525-9107-cb9155bf34c2",
 "identifier":
@@ -41398,7 +41398,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:e5e2f16d-8e55-49eb-ab89-31b001143ace",
 "identifier":
@@ -41574,7 +41574,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:97d26dd6-1ec4-47bf-9344-30036ca02c17",
 "identifier":
@@ -41750,7 +41750,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:cb590bec-6a1f-49d8-a34c-c2d30ae8c877",
 "identifier":
@@ -41926,7 +41926,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:4d3d03b0-dbd4-42c3-bfba-f012ddecbdee",
 "identifier":
@@ -42102,7 +42102,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:b6892069-75a7-4f2f-895f-0ca8d49ec9bd",
 "identifier":
@@ -42278,7 +42278,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:93321018-b922-4634-a3c1-b542960a1fb6",
 "identifier":
@@ -42454,7 +42454,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:91d0d59d-f973-4391-b340-a9927dc57929",
 "identifier":
@@ -42630,7 +42630,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:f87066c1-2ec1-4fa6-b25f-0d58c95f5528",
 "identifier":
@@ -42806,7 +42806,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:e4705b18-4a40-4ca1-a734-736fa2731544",
 "identifier":
@@ -42982,7 +42982,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:7d68b401-19d4-46b3-a39a-6b35364e9f0c",
 "identifier":
@@ -43158,7 +43158,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:2a6eaf8b-9f60-4963-9422-772e4d1339d2",
 "identifier":
@@ -43334,7 +43334,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:617e2f7c-db27-43be-bd4f-2fea57f49923",
 "identifier":
@@ -43510,7 +43510,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:886fa7e8-2796-4003-b648-3e97c144fe18",
 "identifier":
@@ -43686,7 +43686,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:5d6df06c-f47c-42d1-943d-8d4e6371c0cb",
 "identifier":
@@ -43862,7 +43862,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:82da49c8-1218-4204-8ecc-3797482439c4",
 "identifier":
@@ -44038,7 +44038,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:0992c06b-9bb4-4f5b-a7ef-e3bcb3773e96",
 "identifier":
@@ -44214,7 +44214,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:d29f24a2-618d-4d66-9875-fdbcb48a4f8b",
 "identifier":
@@ -44390,7 +44390,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:189bb6c9-fd27-4a7f-8583-5abd10672b01",
 "identifier":
@@ -44566,7 +44566,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:837ee38f-a464-403d-88e1-1565992c5a12",
 "identifier":
@@ -44742,7 +44742,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:e3638d50-3030-43e1-b508-660b91da8d97",
 "identifier":
@@ -44918,7 +44918,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:7c03774a-e6b2-4cd5-a9e7-4d4d16765013",
 "identifier":
@@ -45094,7 +45094,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:4ae3fd8e-c0f4-455f-8ba5-c387a6adfa21",
 "identifier":
@@ -45270,7 +45270,7 @@
 "8e42034afddbcf68cd019f13889ace706ae9dcc64eeb009922ca24f535e6093e"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:5bb34389-6c5a-456d-8f51-817066d96eef",
 "identifier":
@@ -45446,7 +45446,7 @@
 "94cd54d38e6a38bccc7a536be5953c40c406829dbde30eb8e1075a9329c8693c"
 },
 "encodingFormat":
-"application/octet-stream",
+"application/json",
 "id":
 "dandiasset:a8008ed6-5c07-436e-8176-2e3b69fdde5e",
 "identifier":
